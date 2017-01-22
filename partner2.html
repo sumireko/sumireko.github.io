@@ -277,19 +277,19 @@ d3.json("newdata3.json", function(error, graph) {
 
     var charaimg =""
     charaimg += "<div>";
-    charaimg += "<img src = 'icon/" + d.id + ".jpg' height = 70 align='left'>";
+    charaimg += "<img src = 'icon/" + d.id + ".jpg' height = 85 align='left'>";
     charaimg += "<font size='3'>〜";
     charaimg += d.rumor;
     charaimg += "〜";
     charaimg += "</font><br />";
     charaimg += d.name;
-    charaimg += "<br />";
+    charaimg += "<br /><font size='4'>";
     charaimg += d.picture;
-    charaimg += "ポイント"
+    charaimg += "ポイント</font>"
     charaimg += "<br clear='left'>";
     charaimg += "</div>";
 
-    var box_height=80;
+    var box_height=100;
     var point = Array.apply(null, Array(graph.nodes.length)).map(function(){return 0;});//point[id-1]
     var rank_id = Array.apply(null, Array(graph.nodes.length)).map(function(){return 0;});//rank_id[]=id
     var num_adj=0
