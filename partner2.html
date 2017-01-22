@@ -283,7 +283,7 @@ d3.json("newdata3.json", function(error, graph) {
     charaimg += "〜";
     charaimg += "</font><br />";
     charaimg += d.name;
-    charaimg += " ";
+    charaimg += "<br />";
     charaimg += d.picture;
     charaimg += "ポイント"
     charaimg += "<br clear='left'>";
@@ -341,13 +341,12 @@ d3.json("newdata3.json", function(error, graph) {
 
       charaimg += "<div>";
       charaimg += " <img src = 'icon/" + number+".jpg' height = 50 align='left'>";
-      charaimg += "<font size='3'>〜";
-      charaimg += graph.nodes[number-1].rumor;
-      charaimg += "〜";
-      charaimg += "</font><br /><font size='4'>";
+
+      charaimg += "<font size='4'>";
       charaimg += graph.nodes[number-1].name;
       charaimg += "と ";
       charaimg += point[number-1];
+      charaimg += "ポイント"
       charaimg += "</font><br clear ='left'>";
       charaimg += "</div>";
 
