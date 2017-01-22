@@ -290,36 +290,41 @@ d3.json("newdata3.json", function(error, graph) {
     charaimg += "</div>";
 
     var box_height=80;
+    var point = Array.apply(null, Array(graph.nodes.length)).map(function(){return 0;});//point[id-1]
+    var rank_id = Array.apply(null, Array(graph.nodes.length)).map(function(){return 0;});//rank_id[]=id
+    var num_adj=0
 
     for(var i = 0; i < graph.nodes.length; i++){
       if(adj[i] == 1){
-        var point;
+        num_adj++;
         for(var j = 0; j < graph.links.length; j++){
           if(graph.links[j].source.id == d.id && graph.links[j].target.id ==i+1 && reset[graph.links[j].target.group]==1 &&reset[d.group]==1){
-            point = graph.links[j].value;
+            point[i] = graph.links[j].value;
             //svg.select(".link_" + d.name + "_" + graph.links[i].target.name).attr("stroke", "silver");
           }else if(graph.links[j].target.id == d.id && graph.links[j].source.id == i+1 && reset[graph.links[j].source.group]==1 &&reset[d.group]==1){
-            point = graph.links[j].value;
+            point[i] = graph.links[j].value;
             //svg.select(".link_" + graph.links[i].source.name+ "_" + d.name).attr("stroke", "silver");
           }else{
             //svg.select(".link_" + graph.links[i].source.name + "_" + d.name).attr("stroke", "white");
           }
         }
+        for (var k=0; k < num_adj; k++) {
+          if(num_adj==1){
+            rank_id[0]=i+1;
+            break;
+          }
+          else if (point[i]>point[rank_id[k]-1]) {
+            for (var l = num_adj-1; l >= k; l--) {
+              rank_id[l+1]=rank_id[l];
+            }
+            rank_id[k]=i+1;
+            break;
+          }
+        }
+        if(k==num_adj){
+        rank_id[num_adj-1]=i+1;}
         /*svg.select(".text_" + (i+1)).attr("font-size", 30);*/
-        var number=i+1;
-        charaimg += "<div>";
-        charaimg += " <img src = 'icon/" + number+".jpg' height = 50 align='left'>";
-        charaimg += "<font size='3'>〜";
-        charaimg += graph.nodes[number-1].rumor;
-        charaimg += "〜";
-        charaimg += "</font><br /><font size='4'>";
-        charaimg += graph.nodes[number-1].name;
-        charaimg += "と ";
-        charaimg += point;
-        charaimg += "</font><br clear ='left'>";
-        charaimg += "</div>";
 
-        box_height +=50;
       }else if(i+1 == d.id){
         //svg.select(".node_" + d.id).attr("fill", "orange");
         svg.select(".text_" + d.id).attr("fill", "blue");
@@ -328,6 +333,25 @@ d3.json("newdata3.json", function(error, graph) {
         svg.select(".text_" + (i+1)).attr("fill", "none");
         svg.select(".node_" + (i+1)).style("opacity", 0.3);
       }
+    }
+
+    console.log(rank_id);
+    for (var i = 0; i < num_adj; i++) {
+      var number=rank_id[i];
+
+      charaimg += "<div>";
+      charaimg += " <img src = 'icon/" + number+".jpg' height = 50 align='left'>";
+      charaimg += "<font size='3'>〜";
+      charaimg += graph.nodes[number-1].rumor;
+      charaimg += "〜";
+      charaimg += "</font><br /><font size='4'>";
+      charaimg += graph.nodes[number-1].name;
+      charaimg += "と ";
+      charaimg += point[number-1];
+      charaimg += "</font><br clear ='left'>";
+      charaimg += "</div>";
+
+      box_height +=50;
     }
     var ypos;
 
