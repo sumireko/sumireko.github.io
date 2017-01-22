@@ -100,6 +100,3938 @@
 { "id": "98",  "rumor": "" ,"name": "蓬莱人形ジャケットイラストの娘",  "picture": "227",  "group": "13"}
 ],
 "links":[
-{ "source": "博麗霊夢",  "target": "霧雨魔理沙",  "value": "12063",  "picture": "13426",  "isDifferentgroup": "0"}
+ {
+   "ranking": 1,
+   "source": "博麗霊夢",
+   "target": "霧雨魔理沙",
+   "value": 12063,
+   "ichioshi": 3909,
+   "comment": 1380,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 2,
+   "source": "宇佐見蓮子",
+   "target": "マエリベリー・ハーン",
+   "value": 5178,
+   "ichioshi": 1251,
+   "comment": 826,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 3,
+   "source": "霧雨魔理沙",
+   "target": "アリス・マーガトロイド",
+   "value": 4946,
+   "ichioshi": 1142,
+   "comment": 515,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 4,
+   "source": "十六夜咲夜",
+   "target": "レミリア・スカーレット",
+   "value": 4121,
+   "ichioshi": 749,
+   "comment": 380,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 5,
+   "source": "古明地さとり",
+   "target": "古明地こいし",
+   "value": 3679,
+   "ichioshi": 672,
+   "comment": 400,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 6,
+   "source": "レミリア・スカーレット",
+   "target": "フランドール・スカーレット",
+   "value": 3586,
+   "ichioshi": 660,
+   "comment": 369,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 7,
+   "source": "紅美鈴",
+   "target": "十六夜咲夜",
+   "value": 3186,
+   "ichioshi": 640,
+   "comment": 311,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 8,
+   "source": "魂魄妖夢",
+   "target": "西行寺幽々子",
+   "value": 3126,
+   "ichioshi": 594,
+   "comment": 266,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 9,
+   "source": "上白沢慧音",
+   "target": "藤原妹紅",
+   "value": 3082,
+   "ichioshi": 606,
+   "comment": 285,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 10,
+   "source": "蓬莱山輝夜",
+   "target": "藤原妹紅",
+   "value": 2771,
+   "ichioshi": 390,
+   "comment": 300,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 11,
+   "source": "古明地こいし",
+   "target": "秦こころ",
+   "value": 2576,
+   "ichioshi": 484,
+   "comment": 292,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 12,
+   "source": "西行寺幽々子",
+   "target": "八雲紫",
+   "value": 2402,
+   "ichioshi": 451,
+   "comment": 315,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 13,
+   "source": "大妖精",
+   "target": "チルノ",
+   "value": 2391,
+   "ichioshi": 325,
+   "comment": 233,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 14,
+   "source": "博麗霊夢",
+   "target": "八雲紫",
+   "value": 2247,
+   "ichioshi": 477,
+   "comment": 259,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 15,
+   "source": "鬼人正邪",
+   "target": "少名針妙丸",
+   "value": 1866,
+   "ichioshi": 293,
+   "comment": 267,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 16,
+   "source": "射命丸文",
+   "target": "犬走椛",
+   "value": 1862,
+   "ichioshi": 363,
+   "comment": 187,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 17,
+   "source": "小野塚小町",
+   "target": "四季映姫・ヤマザナドゥ",
+   "value": 1744,
+   "ichioshi": 255,
+   "comment": 175,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 18,
+   "source": "フランドール・スカーレット",
+   "target": "古明地こいし",
+   "value": 1725,
+   "ichioshi": 399,
+   "comment": 175,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 19,
+   "source": "魂魄妖夢",
+   "target": "鈴仙・優曇華院・イナバ",
+   "value": 1688,
+   "ichioshi": 308,
+   "comment": 175,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 20,
+   "source": "ドレミー・スイート",
+   "target": "稀神サグメ",
+   "value": 1594,
+   "ichioshi": 210,
+   "comment": 220,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 21,
+   "source": "純狐",
+   "target": "ヘカーティア・ラピスラズリ",
+   "value": 1555,
+   "ichioshi": 188,
+   "comment": 193,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 22,
+   "source": "ナズーリン",
+   "target": "寅丸星",
+   "value": 1523,
+   "ichioshi": 258,
+   "comment": 150,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 23,
+   "source": "稗田阿求",
+   "target": "本居小鈴",
+   "value": 1478,
+   "ichioshi": 145,
+   "comment": 210,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 24,
+   "source": "火焔猫燐",
+   "target": "霊烏路空",
+   "value": 1414,
+   "ichioshi": 217,
+   "comment": 154,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 25,
+   "source": "水橋パルスィ",
+   "target": "星熊勇儀",
+   "value": 1324,
+   "ichioshi": 236,
+   "comment": 130,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 26,
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "純狐",
+   "value": 1283,
+   "ichioshi": 200,
+   "comment": 206,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 27,
+   "source": "博麗霊夢",
+   "target": "東風谷早苗",
+   "value": 1223,
+   "ichioshi": 236,
+   "comment": 154,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 28,
+   "source": "橙",
+   "target": "八雲藍",
+   "value": 1088,
+   "ichioshi": 178,
+   "comment": 130,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 29,
+   "source": "射命丸文",
+   "target": "姫海棠はたて",
+   "value": 1082,
+   "ichioshi": 146,
+   "comment": 106,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 30,
+   "source": "永江衣玖",
+   "target": "比那名居天子",
+   "value": 985,
+   "ichioshi": 156,
+   "comment": 89,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 31,
+   "source": "秋静葉",
+   "target": "秋穣子",
+   "value": 977,
+   "ichioshi": 140,
+   "comment": 137,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 32,
+   "source": "聖白蓮",
+   "target": "豊聡耳神子",
+   "value": 943,
+   "ichioshi": 146,
+   "comment": 140,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 33,
+   "source": "清蘭",
+   "target": "鈴瑚",
+   "value": 899,
+   "ichioshi": 93,
+   "comment": 179,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 34,
+   "source": "小悪魔",
+   "target": "パチュリー・ノーレッジ",
+   "value": 898,
+   "ichioshi": 122,
+   "comment": 84,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 35,
+   "source": "蘇我屠自古",
+   "target": "物部布都",
+   "value": 868,
+   "ichioshi": 129,
+   "comment": 96,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 36,
+   "source": "霧雨魔理沙",
+   "target": "森近霖之助",
+   "value": 851,
+   "ichioshi": 165,
+   "comment": 113,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 37,
+   "source": "パチュリー・ノーレッジ",
+   "target": "レミリア・スカーレット",
+   "value": 844,
+   "ichioshi": 123,
+   "comment": 102,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 38,
+   "source": "霧雨魔理沙",
+   "target": "フランドール・スカーレット",
+   "value": 825,
+   "ichioshi": 160,
+   "comment": 74,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 39,
+   "source": "因幡てゐ",
+   "target": "鈴仙・優曇華院・イナバ",
+   "value": 784,
+   "ichioshi": 91,
+   "comment": 69,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 40,
+   "source": "八坂神奈子",
+   "target": "洩矢諏訪子",
+   "value": 752,
+   "ichioshi": 110,
+   "comment": 82,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 41,
+   "source": "八意永琳",
+   "target": "蓬莱山輝夜",
+   "value": 734,
+   "ichioshi": 105,
+   "comment": 70,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 42,
+   "source": "わかさぎ姫",
+   "target": "今泉影狼",
+   "value": 715,
+   "ichioshi": 98,
+   "comment": 90,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 43,
+   "source": "紅美鈴",
+   "target": "フランドール・スカーレット",
+   "value": 702,
+   "ichioshi": 111,
+   "comment": 73,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 44,
+   "source": "霧雨魔理沙",
+   "target": "パチュリー・ノーレッジ",
+   "value": 693,
+   "ichioshi": 105,
+   "comment": 64,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 45,
+   "source": "東風谷早苗",
+   "target": "多々良小傘",
+   "value": 687,
+   "ichioshi": 122,
+   "comment": 91,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 46,
+   "source": "八雲藍",
+   "target": "八雲紫",
+   "value": 683,
+   "ichioshi": 92,
+   "comment": 64,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 47,
+   "source": "鍵山雛",
+   "target": "河城にとり",
+   "value": 678,
+   "ichioshi": 120,
+   "comment": 65,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 48,
+   "source": "パチュリー・ノーレッジ",
+   "target": "アリス・マーガトロイド",
+   "value": 653,
+   "ichioshi": 108,
+   "comment": 68,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 49,
+   "source": "ミスティア・ローレライ",
+   "target": "幽谷響子",
+   "value": 607,
+   "ichioshi": 110,
+   "comment": 109,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 50,
+   "source": "宮古芳香",
+   "target": "霍青娥",
+   "value": 606,
+   "ichioshi": 82,
+   "comment": 60,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 51,
+   "source": "博麗霊夢",
+   "target": "アリス・マーガトロイド",
+   "value": 598,
+   "ichioshi": 133,
+   "comment": 83,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 52,
+   "source": "藤原妹紅",
+   "target": "宇佐見菫子",
+   "value": 565,
+   "ichioshi": 59,
+   "comment": 81,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 53,
+   "source": "博麗霊夢",
+   "target": "射命丸文",
+   "value": 532,
+   "ichioshi": 115,
+   "comment": 66,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 54,
+   "source": "十六夜咲夜",
+   "target": "魂魄妖夢",
+   "value": 531,
+   "ichioshi": 102,
+   "comment": 74,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 55,
+   "source": "レミリア・スカーレット",
+   "target": "古明地さとり",
+   "value": 490,
+   "ichioshi": 85,
+   "comment": 77,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 56,
+   "source": "博麗霊夢",
+   "target": "伊吹萃香",
+   "value": 465,
+   "ichioshi": 71,
+   "comment": 30,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 57,
+   "source": "博麗霊夢",
+   "target": "レミリア・スカーレット",
+   "value": 456,
+   "ichioshi": 80,
+   "comment": 56,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 58,
+   "source": "霧雨魔理沙",
+   "target": "十六夜咲夜",
+   "value": 433,
+   "ichioshi": 77,
+   "comment": 64,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 59,
+   "source": "博麗霊夢",
+   "target": "易者",
+   "value": 429,
+   "ichioshi": 60,
+   "comment": 116,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 60,
+   "source": "蘇我屠自古",
+   "target": "豊聡耳神子",
+   "value": 418,
+   "ichioshi": 64,
+   "comment": 59,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 61,
+   "source": "クラウンピース",
+   "target": "ヘカーティア・ラピスラズリ",
+   "value": 406,
+   "ichioshi": 29,
+   "comment": 48,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 62,
+   "source": "九十九弁々",
+   "target": "九十九八橋",
+   "value": 403,
+   "ichioshi": 56,
+   "comment": 74,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 63,
+   "source": "封獣ぬえ",
+   "target": "二ッ岩マミゾウ",
+   "value": 397,
+   "ichioshi": 47,
+   "comment": 58,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 64,
+   "source": "封獣ぬえ",
+   "target": "鬼人正邪",
+   "value": 387,
+   "ichioshi": 68,
+   "comment": 41,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 65,
+   "source": "多々良小傘",
+   "target": "封獣ぬえ",
+   "value": 381,
+   "ichioshi": 65,
+   "comment": 33,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 66,
+   "source": "夢月",
+   "target": "幻月",
+   "value": 360,
+   "ichioshi": 39,
+   "comment": 53,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 67,
+   "source": "博麗霊夢",
+   "target": "十六夜咲夜",
+   "value": 343,
+   "ichioshi": 57,
+   "comment": 33,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 68,
+   "source": "十六夜咲夜",
+   "target": "アリス・マーガトロイド",
+   "value": 325,
+   "ichioshi": 74,
+   "comment": 40,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 69,
+   "source": "物部布都",
+   "target": "豊聡耳神子",
+   "value": 324,
+   "ichioshi": 47,
+   "comment": 29,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 70,
+   "source": "河城にとり",
+   "target": "犬走椛",
+   "value": 323,
+   "ichioshi": 49,
+   "comment": 36,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 71,
+   "source": "北白河ちゆり",
+   "target": "岡崎夢美",
+   "value": 322,
+   "ichioshi": 35,
+   "comment": 55,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 72,
+   "source": "チルノ",
+   "target": "射命丸文",
+   "value": 321,
+   "ichioshi": 63,
+   "comment": 54,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 73,
+   "source": "雲居一輪",
+   "target": "物部布都",
+   "value": 308,
+   "ichioshi": 46,
+   "comment": 60,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 74,
+   "source": "東風谷早苗",
+   "target": "洩矢諏訪子",
+   "value": 302,
+   "ichioshi": 41,
+   "comment": 23,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 74,
+   "source": "村紗水蜜",
+   "target": "封獣ぬえ",
+   "value": 302,
+   "ichioshi": 60,
+   "comment": 29,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 76,
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "八意永琳",
+   "value": 298,
+   "ichioshi": 40,
+   "comment": 27,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 77,
+   "source": "霧雨魔理沙",
+   "target": "河城にとり",
+   "value": 290,
+   "ichioshi": 56,
+   "comment": 23,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 77,
+   "source": "鬼人正邪",
+   "target": "稀神サグメ",
+   "value": 290,
+   "ichioshi": 40,
+   "comment": 51,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 79,
+   "source": "ユキ",
+   "target": "マイ",
+   "value": 282,
+   "ichioshi": 51,
+   "comment": 46,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 80,
+   "source": "博麗霊夢",
+   "target": "茨木華扇",
+   "value": 280,
+   "ichioshi": 41,
+   "comment": 16,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 81,
+   "source": "博麗霊夢",
+   "target": "ルーミア",
+   "value": 279,
+   "ichioshi": 63,
+   "comment": 45,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 82,
+   "source": "霧雨魔理沙",
+   "target": "魅魔",
+   "value": 277,
+   "ichioshi": 35,
+   "comment": 46,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 83,
+   "source": "アリス・マーガトロイド",
+   "target": "神綺",
+   "value": 269,
+   "ichioshi": 24,
+   "comment": 40,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 84,
+   "source": "ルーミア",
+   "target": "ミスティア・ローレライ",
+   "value": 266,
+   "ichioshi": 67,
+   "comment": 39,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 84,
+   "source": "豊聡耳神子",
+   "target": "秦こころ",
+   "value": 266,
+   "ichioshi": 26,
+   "comment": 36,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 86,
+   "source": "純狐",
+   "target": "嫦娥",
+   "value": 255,
+   "ichioshi": 13,
+   "comment": 68,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 87,
+   "source": "伊吹萃香",
+   "target": "星熊勇儀",
+   "value": 247,
+   "ichioshi": 34,
+   "comment": 23,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 88,
+   "source": "二ッ岩マミゾウ",
+   "target": "本居小鈴",
+   "value": 245,
+   "ichioshi": 23,
+   "comment": 31,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 89,
+   "source": "雲居一輪",
+   "target": "雲山",
+   "value": 242,
+   "ichioshi": 26,
+   "comment": 54,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 90,
+   "source": "アリス・マーガトロイド",
+   "target": "風見幽香",
+   "value": 240,
+   "ichioshi": 56,
+   "comment": 35,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 91,
+   "source": "射命丸文",
+   "target": "東風谷早苗",
+   "value": 237,
+   "ichioshi": 42,
+   "comment": 23,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 92,
+   "source": "綿月豊姫",
+   "target": "綿月依姫",
+   "value": 233,
+   "ichioshi": 29,
+   "comment": 41,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 93,
+   "source": "雲居一輪",
+   "target": "村紗水蜜",
+   "value": 232,
+   "ichioshi": 36,
+   "comment": 25,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 94,
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "蓬莱山輝夜",
+   "value": 227,
+   "ichioshi": 37,
+   "comment": 33,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 95,
+   "source": "チルノ",
+   "target": "レティ・ホワイトロック",
+   "value": 225,
+   "ichioshi": 25,
+   "comment": 34,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 96,
+   "source": "ルーミア",
+   "target": "フランドール・スカーレット",
+   "value": 223,
+   "ichioshi": 48,
+   "comment": 28,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 97,
+   "source": "フランドール・スカーレット",
+   "target": "射命丸文",
+   "value": 217,
+   "ichioshi": 46,
+   "comment": 31,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 98,
+   "source": "博麗霊夢",
+   "target": "少名針妙丸",
+   "value": 208,
+   "ichioshi": 25,
+   "comment": 29,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 99,
+   "source": "リグル・ナイトバグ",
+   "target": "ミスティア・ローレライ",
+   "value": 206,
+   "ichioshi": 47,
+   "comment": 24,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 100,
+   "source": "紅美鈴",
+   "target": "レミリア・スカーレット",
+   "value": 201,
+   "ichioshi": 32,
+   "comment": 27,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 100,
+   "source": "メディスン・メランコリー",
+   "target": "風見幽香",
+   "value": 201,
+   "ichioshi": 28,
+   "comment": 26,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 102,
+   "source": "リグル・ナイトバグ",
+   "target": "風見幽香",
+   "value": 198,
+   "ichioshi": 39,
+   "comment": 25,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 103,
+   "source": "犬走椛",
+   "target": "姫海棠はたて",
+   "value": 194,
+   "ichioshi": 19,
+   "comment": 32,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 104,
+   "source": "アリス・マーガトロイド",
+   "target": "アリスの人形（上海・蓬莱・大江戸他）",
+   "value": 176,
+   "ichioshi": 24,
+   "comment": 27,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 105,
+   "source": "多々良小傘",
+   "target": "赤蛮奇",
+   "value": 174,
+   "ichioshi": 37,
+   "comment": 26,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 106,
+   "source": "ルーミア",
+   "target": "チルノ",
+   "value": 172,
+   "ichioshi": 19,
+   "comment": 16,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 107,
+   "source": "犬走椛",
+   "target": "今泉影狼",
+   "value": 161,
+   "ichioshi": 30,
+   "comment": 18,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 108,
+   "source": "八雲紫",
+   "target": "比那名居天子",
+   "value": 157,
+   "ichioshi": 26,
+   "comment": 15,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 108,
+   "source": "霍青娥",
+   "target": "茨木華扇",
+   "value": 157,
+   "ichioshi": 20,
+   "comment": 16,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 110,
+   "source": "黒谷ヤマメ",
+   "target": "水橋パルスィ",
+   "value": 152,
+   "ichioshi": 27,
+   "comment": 28,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 111,
+   "source": "宇佐見菫子",
+   "target": "森近霖之助",
+   "value": 151,
+   "ichioshi": 15,
+   "comment": 41,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 112,
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "抗鬱薬おじさん",
+   "value": 150,
+   "ichioshi": 23,
+   "comment": 43,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 112,
+   "source": "鍵山雛",
+   "target": "水橋パルスィ",
+   "value": 150,
+   "ichioshi": 33,
+   "comment": 29,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 114,
+   "source": "霍青娥",
+   "target": "豊聡耳神子",
+   "value": 147,
+   "ichioshi": 18,
+   "comment": 17,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 115,
+   "source": "キスメ",
+   "target": "黒谷ヤマメ",
+   "value": 146,
+   "ichioshi": 24,
+   "comment": 20,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 116,
+   "source": "ミスティア・ローレライ",
+   "target": "藤原妹紅",
+   "value": 140,
+   "ichioshi": 18,
+   "comment": 16,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 117,
+   "source": "ナズーリン",
+   "target": "多々良小傘",
+   "value": 136,
+   "ichioshi": 23,
+   "comment": 19,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 118,
+   "source": "比那名居天子",
+   "target": "霊烏路空",
+   "value": 128,
+   "ichioshi": 30,
+   "comment": 33,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 119,
+   "source": "蓬莱人形ジャケットイラストの娘",
+   "target": "蓬莱人形レーベルイラストの娘",
+   "value": 123,
+   "ichioshi": 26,
+   "comment": 29,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 120,
+   "source": "射命丸文",
+   "target": "河城にとり",
+   "value": 122,
+   "ichioshi": 18,
+   "comment": 20,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 121,
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "藤原妹紅",
+   "value": 121,
+   "ichioshi": 16,
+   "comment": 17,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 122,
+   "source": "チルノ",
+   "target": "クラウンピース",
+   "value": 118,
+   "ichioshi": 9,
+   "comment": 32,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 123,
+   "source": "伊吹萃香",
+   "target": "茨木華扇",
+   "value": 111,
+   "ichioshi": 11,
+   "comment": 20,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 124,
+   "source": "東風谷早苗",
+   "target": "比那名居天子",
+   "value": 108,
+   "ichioshi": 23,
+   "comment": 19,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 125,
+   "source": "古明地さとり",
+   "target": "火焔猫燐",
+   "value": 107,
+   "ichioshi": 14,
+   "comment": 10,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 126,
+   "source": "十六夜咲夜",
+   "target": "フランドール・スカーレット",
+   "value": 106,
+   "ichioshi": 15,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 126,
+   "source": "水橋パルスィ",
+   "target": "古明地さとり",
+   "value": 106,
+   "ichioshi": 28,
+   "comment": 18,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 126,
+   "source": "赤蛮奇と今泉",
+   "target": "影狼",
+   "value": 106,
+   "ichioshi": 10,
+   "comment": 15,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 129,
+   "source": "ルナサ・プリズムリバー",
+   "target": "魂魄妖夢",
+   "value": 105,
+   "ichioshi": 27,
+   "comment": 11,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 130,
+   "source": "易者",
+   "target": "抗鬱薬おじさん",
+   "value": 102,
+   "ichioshi": 7,
+   "comment": 20,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 131,
+   "source": "上白沢慧音",
+   "target": "森近霖之助",
+   "value": 99,
+   "ichioshi": 20,
+   "comment": 18,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 132,
+   "source": "博麗霊夢",
+   "target": "森近霖之助",
+   "value": 96,
+   "ichioshi": 19,
+   "comment": 10,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 133,
+   "source": "上白沢慧音",
+   "target": "八意永琳",
+   "value": 91,
+   "ichioshi": 12,
+   "comment": 15,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 133,
+   "source": "小野塚小町",
+   "target": "茨木華扇",
+   "value": 91,
+   "ichioshi": 12,
+   "comment": 12,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 135,
+   "source": "宮古芳香",
+   "target": "茨木華扇",
+   "value": 89,
+   "ichioshi": 9,
+   "comment": 24,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 136,
+   "source": "クラウンピース",
+   "target": "純狐",
+   "value": 88,
+   "ichioshi": 6,
+   "comment": 9,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 137,
+   "source": "四季映姫・ヤマザナドゥ",
+   "target": "古明地さとり",
+   "value": 86,
+   "ichioshi": 17,
+   "comment": 18,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 138,
+   "source": "森近霖之助",
+   "target": "名無しの本読み妖怪",
+   "value": 84,
+   "ichioshi": 9,
+   "comment": 13,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 139,
+   "source": "博麗霊夢",
+   "target": "本居小鈴",
+   "value": 83,
+   "ichioshi": 6,
+   "comment": 11,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 139,
+   "source": "東風谷早苗",
+   "target": "八坂神奈子",
+   "value": 83,
+   "ichioshi": 8,
+   "comment": 12,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 141,
+   "source": "霧雨魔理沙",
+   "target": "魂魄妖夢",
+   "value": 82,
+   "ichioshi": 18,
+   "comment": 8,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 142,
+   "source": "宇佐見菫子",
+   "target": "茨木華扇",
+   "value": 81,
+   "ichioshi": 5,
+   "comment": 13,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 143,
+   "source": "風見幽香",
+   "target": "比那名居天子",
+   "value": 80,
+   "ichioshi": 14,
+   "comment": 14,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 144,
+   "source": "霧雨魔理沙",
+   "target": "チルノ",
+   "value": 79,
+   "ichioshi": 10,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 144,
+   "source": "古明地さとり",
+   "target": "稀神サグメ",
+   "value": 79,
+   "ichioshi": 11,
+   "comment": 15,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 146,
+   "source": "聖白蓮",
+   "target": "封獣ぬえ",
+   "value": 77,
+   "ichioshi": 11,
+   "comment": 8,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 147,
+   "source": "夢子",
+   "target": "神綺",
+   "value": 76,
+   "ichioshi": 5,
+   "comment": 11,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 148,
+   "source": "博麗霊夢",
+   "target": "風見幽香",
+   "value": 74,
+   "ichioshi": 16,
+   "comment": 9,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 149,
+   "source": "多々良小傘",
+   "target": "幽谷響子",
+   "value": 71,
+   "ichioshi": 9,
+   "comment": 10,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 150,
+   "source": "チルノ",
+   "target": "洩矢諏訪子",
+   "value": 70,
+   "ichioshi": 13,
+   "comment": 11,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 150,
+   "source": "寅丸星",
+   "target": "聖白蓮",
+   "value": 70,
+   "ichioshi": 5,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 150,
+   "source": "わかさぎ姫",
+   "target": "赤蛮奇",
+   "value": 70,
+   "ichioshi": 9,
+   "comment": 8,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 153,
+   "source": "博麗霊夢",
+   "target": "チルノ",
+   "value": 69,
+   "ichioshi": 15,
+   "comment": 9,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 153,
+   "source": "博麗霊夢",
+   "target": "明羅",
+   "value": 69,
+   "ichioshi": 12,
+   "comment": 18,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 155,
+   "source": "本居小鈴",
+   "target": "なめえもん",
+   "value": 68,
+   "ichioshi": 5,
+   "comment": 22,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 156,
+   "source": "博麗霊夢",
+   "target": "比那名居天子",
+   "value": 67,
+   "ichioshi": 9,
+   "comment": 11,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 156,
+   "source": "霧雨魔理沙",
+   "target": "ルーミア",
+   "value": 67,
+   "ichioshi": 12,
+   "comment": 13,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 156,
+   "source": "霧雨魔理沙",
+   "target": "ヘカーティア・ラピスラズリ",
+   "value": 67,
+   "ichioshi": 6,
+   "comment": 14,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 156,
+   "source": "レティ・ホワイトロック",
+   "target": "風見幽香",
+   "value": 67,
+   "ichioshi": 16,
+   "comment": 15,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 160,
+   "source": "古明地さとり",
+   "target": "秦こころ",
+   "value": 62,
+   "ichioshi": 9,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 161,
+   "source": "博麗霊夢",
+   "target": "綿月依姫",
+   "value": 61,
+   "ichioshi": 6,
+   "comment": 13,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 161,
+   "source": "古明地こいし",
+   "target": "封獣ぬえ",
+   "value": 61,
+   "ichioshi": 3,
+   "comment": 10,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 163,
+   "source": "パチュリー・ノーレッジ",
+   "target": "十六夜咲夜",
+   "value": 60,
+   "ichioshi": 7,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 164,
+   "source": "八意永琳",
+   "target": "メディスン・メランコリー",
+   "value": 59,
+   "ichioshi": 7,
+   "comment": 12,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 164,
+   "source": "風見幽香",
+   "target": "魅魔",
+   "value": 59,
+   "ichioshi": 10,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 166,
+   "source": "博麗霊夢",
+   "target": "フランドール・スカーレット",
+   "value": 58,
+   "ichioshi": 11,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 166,
+   "source": "紅美鈴",
+   "target": "パチュリー・ノーレッジ",
+   "value": 58,
+   "ichioshi": 12,
+   "comment": 10,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 166,
+   "source": "風見幽香",
+   "target": "エリー",
+   "value": 58,
+   "ichioshi": 9,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 169,
+   "source": "橙",
+   "target": "火焔猫燐",
+   "value": 57,
+   "ichioshi": 9,
+   "comment": 11,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 170,
+   "source": "大妖精",
+   "target": "小悪魔",
+   "value": 56,
+   "ichioshi": 7,
+   "comment": 9,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 170,
+   "source": "西行寺幽々子",
+   "target": "ミスティア・ローレライ",
+   "value": 56,
+   "ichioshi": 6,
+   "comment": 8,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 170,
+   "source": "八雲藍",
+   "target": "二ッ岩マミゾウ",
+   "value": 56,
+   "ichioshi": 6,
+   "comment": 13,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 173,
+   "source": "パチュリー・ノーレッジ",
+   "target": "フランドール・スカーレット",
+   "value": 55,
+   "ichioshi": 9,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 173,
+   "source": "古明地さとり",
+   "target": "霊烏路空",
+   "value": 55,
+   "ichioshi": 4,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 175,
+   "source": "八雲紫",
+   "target": "風見幽香",
+   "value": 53,
+   "ichioshi": 12,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 175,
+   "source": "八雲紫",
+   "target": "マエリベリー・ハーン",
+   "value": 53,
+   "ichioshi": 3,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 175,
+   "source": "ウワバミ",
+   "target": "易者",
+   "value": 53,
+   "ichioshi": 6,
+   "comment": 16,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 178,
+   "source": "博麗霊夢",
+   "target": "古明地さとり",
+   "value": 52,
+   "ichioshi": 5,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 178,
+   "source": "魂魄妖夢",
+   "target": "魂魄妖忌",
+   "value": 52,
+   "ichioshi": 1,
+   "comment": 13,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 178,
+   "source": "東風谷早苗",
+   "target": "ヘカーティア・ラピスラズリ",
+   "value": 52,
+   "ichioshi": 7,
+   "comment": 17,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 181,
+   "source": "ルーミア",
+   "target": "リグル・ナイトバグ",
+   "value": 51,
+   "ichioshi": 12,
+   "comment": 9,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 181,
+   "source": "伊吹萃香",
+   "target": "比那名居天子",
+   "value": 51,
+   "ichioshi": 4,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 181,
+   "source": "村紗水蜜",
+   "target": "聖白蓮",
+   "value": 51,
+   "ichioshi": 6,
+   "comment": 8,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 184,
+   "source": "雲居一輪",
+   "target": "聖白蓮",
+   "value": 49,
+   "ichioshi": 9,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 185,
+   "source": "アリス・マーガトロイド",
+   "target": "メディスン・メランコリー",
+   "value": 48,
+   "ichioshi": 5,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 186,
+   "source": "大妖精",
+   "target": "リリーホワイト",
+   "value": 47,
+   "ichioshi": 13,
+   "comment": 13,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 187,
+   "source": "チルノ",
+   "target": "レミリア・スカーレット",
+   "value": 46,
+   "ichioshi": 14,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 187,
+   "source": "チルノ",
+   "target": "風見幽香",
+   "value": 46,
+   "ichioshi": 8,
+   "comment": 8,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 187,
+   "source": "多々良小傘",
+   "target": "秦こころ",
+   "value": 46,
+   "ichioshi": 8,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 190,
+   "source": "博麗霊夢",
+   "target": "八雲藍",
+   "value": 45,
+   "ichioshi": 11,
+   "comment": 9,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 190,
+   "source": "宇佐見菫子",
+   "target": "宇佐見蓮子",
+   "value": 45,
+   "ichioshi": 2,
+   "comment": 8,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 192,
+   "source": "霧雨魔理沙",
+   "target": "鈴仙・優曇華院・イナバ",
+   "value": 44,
+   "ichioshi": 9,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 192,
+   "source": "霧雨魔理沙",
+   "target": "龍（子龍、邪龍他）",
+   "value": 44,
+   "ichioshi": 5,
+   "comment": 15,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 192,
+   "source": "アリス・マーガトロイド",
+   "target": "東風谷早苗",
+   "value": 44,
+   "ichioshi": 7,
+   "comment": 11,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 195,
+   "source": "紅美鈴",
+   "target": "風見幽香",
+   "value": 43,
+   "ichioshi": 9,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 195,
+   "source": "ルナサ・プリズムリバー",
+   "target": "メルラン・プリズムリバー",
+   "value": 43,
+   "ichioshi": 8,
+   "comment": 8,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 195,
+   "source": "メディスン・メランコリー",
+   "target": "鍵山雛",
+   "value": 43,
+   "ichioshi": 7,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 198,
+   "source": "博麗霊夢",
+   "target": "魂魄妖夢",
+   "value": 42,
+   "ichioshi": 9,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 198,
+   "source": "博麗霊夢",
+   "target": "玄爺",
+   "value": 42,
+   "ichioshi": 3,
+   "comment": 12,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 198,
+   "source": "橙",
+   "target": "因幡てゐ",
+   "value": 42,
+   "ichioshi": 5,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 201,
+   "source": "霧雨魔理沙",
+   "target": "藤原妹紅",
+   "value": 41,
+   "ichioshi": 8,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 201,
+   "source": "小悪魔",
+   "target": "十六夜咲夜",
+   "value": 41,
+   "ichioshi": 6,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 201,
+   "source": "因幡てゐ",
+   "target": "蓬莱山輝夜",
+   "value": 41,
+   "ichioshi": 5,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 204,
+   "source": "魂魄妖夢",
+   "target": "犬走椛",
+   "value": 40,
+   "ichioshi": 4,
+   "comment": 9,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 205,
+   "source": "霧雨魔理沙",
+   "target": "風見幽香",
+   "value": 39,
+   "ichioshi": 3,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 205,
+   "source": "フランドール・スカーレット",
+   "target": "封獣ぬえ",
+   "value": 39,
+   "ichioshi": 3,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 205,
+   "source": "魂魄妖夢",
+   "target": "東風谷早苗",
+   "value": 39,
+   "ichioshi": 8,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 208,
+   "source": "博麗霊夢",
+   "target": "レティ・ホワイトロック",
+   "value": 38,
+   "ichioshi": 9,
+   "comment": 8,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 208,
+   "source": "八雲紫",
+   "target": "伊吹萃香",
+   "value": 38,
+   "ichioshi": 4,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 208,
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "レイセン",
+   "value": 38,
+   "ichioshi": 6,
+   "comment": 9,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 211,
+   "source": "フランドール・スカーレット",
+   "target": "アリス・マーガトロイド",
+   "value": 37,
+   "ichioshi": 3,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 212,
+   "source": "霧雨魔理沙",
+   "target": "八雲紫",
+   "value": 36,
+   "ichioshi": 4,
+   "comment": 10,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 212,
+   "source": "チルノ",
+   "target": "フランドール・スカーレット",
+   "value": 36,
+   "ichioshi": 7,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 212,
+   "source": "チルノ",
+   "target": "藤原妹紅",
+   "value": 36,
+   "ichioshi": 4,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 212,
+   "source": "レミリア・スカーレット",
+   "target": "多々良小傘",
+   "value": 36,
+   "ichioshi": 6,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 212,
+   "source": "風見幽香",
+   "target": "堀川雷鼓",
+   "value": 36,
+   "ichioshi": 5,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 212,
+   "source": "東風谷早苗",
+   "target": "古明地こいし",
+   "value": 36,
+   "ichioshi": 7,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 212,
+   "source": "雲山",
+   "target": "森近霖之助",
+   "value": 36,
+   "ichioshi": 3,
+   "comment": 8,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 212,
+   "source": "サニーミルク",
+   "target": "ルナチャイルド",
+   "value": 36,
+   "ichioshi": 9,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 220,
+   "source": "ルーミア",
+   "target": "レミリア・スカーレット",
+   "value": 35,
+   "ichioshi": 8,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 220,
+   "source": "レミリア・スカーレット",
+   "target": "アリス・マーガトロイド",
+   "value": 35,
+   "ichioshi": 5,
+   "comment": 9,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 220,
+   "source": "フランドール・スカーレット",
+   "target": "藤原妹紅",
+   "value": 35,
+   "ichioshi": 7,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 220,
+   "source": "西行寺幽々子",
+   "target": "魂魄妖忌",
+   "value": 35,
+   "ichioshi": 6,
+   "comment": 9,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 224,
+   "source": "霧雨魔理沙",
+   "target": "東風谷早苗",
+   "value": 34,
+   "ichioshi": 4,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 224,
+   "source": "チルノ",
+   "target": "紅美鈴",
+   "value": 34,
+   "ichioshi": 2,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 224,
+   "source": "八雲紫",
+   "target": "綿月豊姫",
+   "value": 34,
+   "ichioshi": 9,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 224,
+   "source": "河城にとり",
+   "target": "黒谷ヤマメ",
+   "value": 34,
+   "ichioshi": 6,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 224,
+   "source": "多々良小傘",
+   "target": "宮古芳香",
+   "value": 34,
+   "ichioshi": 6,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 224,
+   "source": "サリエル",
+   "target": "コンガラ",
+   "value": 34,
+   "ichioshi": 8,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 224,
+   "source": "魅魔",
+   "target": "神綺",
+   "value": 34,
+   "ichioshi": 4,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 231,
+   "source": "霧雨魔理沙",
+   "target": "古明地こいし",
+   "value": 33,
+   "ichioshi": 5,
+   "comment": 0,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 231,
+   "source": "魂魄妖夢",
+   "target": "物部布都",
+   "value": 33,
+   "ichioshi": 7,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 231,
+   "source": "ミスティア・ローレライ",
+   "target": "名無しの本読み妖怪",
+   "value": 33,
+   "ichioshi": 10,
+   "comment": 8,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 231,
+   "source": "伊吹萃香",
+   "target": "射命丸文",
+   "value": 33,
+   "ichioshi": 3,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 231,
+   "source": "四季映姫・ヤマザナドゥ",
+   "target": "鬼人正邪",
+   "value": 33,
+   "ichioshi": 6,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 231,
+   "source": "霊烏路空",
+   "target": "古明地こいし",
+   "value": 33,
+   "ichioshi": 4,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 231,
+   "source": "霍青娥",
+   "target": "蘇我屠自古",
+   "value": 33,
+   "ichioshi": 5,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 238,
+   "source": "ルーミア",
+   "target": "大妖精",
+   "value": 32,
+   "ichioshi": 5,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 238,
+   "source": "ルーミア",
+   "target": "キスメ",
+   "value": 32,
+   "ichioshi": 3,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 238,
+   "source": "大妖精",
+   "target": "ルナサ・プリズムリバー",
+   "value": 32,
+   "ichioshi": 5,
+   "comment": 8,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 238,
+   "source": "チルノ",
+   "target": "霊烏路空",
+   "value": 32,
+   "ichioshi": 3,
+   "comment": 9,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 238,
+   "source": "魂魄妖夢",
+   "target": "八雲藍",
+   "value": 32,
+   "ichioshi": 6,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 238,
+   "source": "八雲紫",
+   "target": "八意永琳",
+   "value": 32,
+   "ichioshi": 2,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 238,
+   "source": "リグル・ナイトバグ",
+   "target": "黒谷ヤマメ",
+   "value": 32,
+   "ichioshi": 5,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 245,
+   "source": "博麗霊夢",
+   "target": "多々良小傘",
+   "value": 31,
+   "ichioshi": 2,
+   "comment": 10,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 245,
+   "source": "霧雨魔理沙",
+   "target": "射命丸文",
+   "value": 31,
+   "ichioshi": 6,
+   "comment": 8,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 245,
+   "source": "橙",
+   "target": "ナズーリン",
+   "value": 31,
+   "ichioshi": 3,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 245,
+   "source": "射命丸文",
+   "target": "本居小鈴",
+   "value": 31,
+   "ichioshi": 4,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 245,
+   "source": "風見幽香",
+   "target": "幻月",
+   "value": 31,
+   "ichioshi": 7,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 245,
+   "source": "二ッ岩マミゾウ",
+   "target": "秦こころ",
+   "value": 31,
+   "ichioshi": 3,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 251,
+   "source": "聖白蓮",
+   "target": "秦こころ",
+   "value": 30,
+   "ichioshi": 0,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 252,
+   "source": "十六夜咲夜",
+   "target": "東風谷早苗",
+   "value": 29,
+   "ichioshi": 6,
+   "comment": 10,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 252,
+   "source": "レティ・ホワイトロック",
+   "target": "リリーホワイト",
+   "value": 29,
+   "ichioshi": 7,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 252,
+   "source": "聖白蓮",
+   "target": "命蓮",
+   "value": 29,
+   "ichioshi": 4,
+   "comment": 12,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 252,
+   "source": "本居小鈴",
+   "target": "易者",
+   "value": 29,
+   "ichioshi": 4,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 256,
+   "source": "紅美鈴",
+   "target": "小悪魔",
+   "value": 28,
+   "ichioshi": 3,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 256,
+   "source": "十六夜咲夜",
+   "target": "森近霖之助",
+   "value": 28,
+   "ichioshi": 3,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 256,
+   "source": "フランドール・スカーレット",
+   "target": "サニーミルク",
+   "value": 28,
+   "ichioshi": 5,
+   "comment": 10,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 256,
+   "source": "メルラン・プリズムリバー",
+   "target": "リリカ・プリズムリバー",
+   "value": 28,
+   "ichioshi": 2,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 256,
+   "source": "射命丸文",
+   "target": "稗田阿求",
+   "value": 28,
+   "ichioshi": 5,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 256,
+   "source": "キクリ",
+   "target": "コンガラ",
+   "value": 28,
+   "ichioshi": 6,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 256,
+   "source": "くるみ",
+   "target": "エリー",
+   "value": 28,
+   "ichioshi": 4,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 263,
+   "source": "博麗霊夢",
+   "target": "火焔猫燐",
+   "value": 27,
+   "ichioshi": 8,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 263,
+   "source": "博麗霊夢",
+   "target": "秦こころ",
+   "value": 27,
+   "ichioshi": 4,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 263,
+   "source": "橙",
+   "target": "八雲紫",
+   "value": 27,
+   "ichioshi": 1,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 266,
+   "source": "霧雨魔理沙",
+   "target": "レミリア・スカーレット",
+   "value": 26,
+   "ichioshi": 5,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 266,
+   "source": "ルナサ・プリズムリバー",
+   "target": "リリカ・プリズムリバー",
+   "value": 26,
+   "ichioshi": 5,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 266,
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "東風谷早苗",
+   "value": 26,
+   "ichioshi": 4,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 266,
+   "source": "霍青娥",
+   "target": "物部布都",
+   "value": 26,
+   "ichioshi": 1,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 266,
+   "source": "少名針妙丸",
+   "target": "宇佐見菫子",
+   "value": 26,
+   "ichioshi": 1,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 271,
+   "source": "博麗霊夢",
+   "target": "魅魔",
+   "value": 25,
+   "ichioshi": 2,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 271,
+   "source": "霧雨魔理沙",
+   "target": "聖白蓮",
+   "value": 25,
+   "ichioshi": 3,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 271,
+   "source": "フランドール・スカーレット",
+   "target": "古明地さとり",
+   "value": 25,
+   "ichioshi": 5,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 271,
+   "source": "八雲紫",
+   "target": "森近霖之助",
+   "value": 25,
+   "ichioshi": 2,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 271,
+   "source": "水橋パルスィ",
+   "target": "古明地こいし",
+   "value": 25,
+   "ichioshi": 2,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 271,
+   "source": "二ッ岩マミゾウ",
+   "target": "茨木華扇",
+   "value": 25,
+   "ichioshi": 1,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 271,
+   "source": "稀神サグメ",
+   "target": "クラウンピース",
+   "value": 25,
+   "ichioshi": 2,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 271,
+   "source": "本居小鈴",
+   "target": "狐（妖怪狐、狐の子他）",
+   "value": 25,
+   "ichioshi": 3,
+   "comment": 11,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 279,
+   "source": "十六夜咲夜",
+   "target": "八意永琳",
+   "value": 24,
+   "ichioshi": 3,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 279,
+   "source": "リリカ・プリズムリバー",
+   "target": "九十九八橋",
+   "value": 24,
+   "ichioshi": 4,
+   "comment": 8,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 279,
+   "source": "四季映姫・ヤマザナドゥ",
+   "target": "聖白蓮",
+   "value": 24,
+   "ichioshi": 4,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 279,
+   "source": "古明地こいし",
+   "target": "多々良小傘",
+   "value": 24,
+   "ichioshi": 4,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 279,
+   "source": "古明地こいしと",
+   "target": "鬼人正邪",
+   "value": 24,
+   "ichioshi": 6,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 279,
+   "source": "聖白蓮",
+   "target": "神綺",
+   "value": 24,
+   "ichioshi": 3,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 279,
+   "source": "幽谷響子",
+   "target": "今泉影狼",
+   "value": 24,
+   "ichioshi": 3,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 286,
+   "source": "八意永琳",
+   "target": "稀神サグメ",
+   "value": 23,
+   "ichioshi": 1,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 286,
+   "source": "犬走椛",
+   "target": "東風谷早苗",
+   "value": 23,
+   "ichioshi": 6,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 286,
+   "source": "サニーミルク",
+   "target": "スターサファイア",
+   "value": 23,
+   "ichioshi": 4,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 289,
+   "source": "霧雨魔理沙",
+   "target": "本居小鈴",
+   "value": 22,
+   "ichioshi": 3,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 289,
+   "source": "紅美鈴",
+   "target": "星熊勇儀",
+   "value": 22,
+   "ichioshi": 4,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 289,
+   "source": "パチュリー・ノーレッジ",
+   "target": "古明地さとり",
+   "value": 22,
+   "ichioshi": 3,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 289,
+   "source": "八雲紫",
+   "target": "宇佐見菫子",
+   "value": 22,
+   "ichioshi": 3,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 289,
+   "source": "ミスティア・ローレライ",
+   "target": "射命丸文",
+   "value": 22,
+   "ichioshi": 5,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 289,
+   "source": "因幡てゐ",
+   "target": "八意永琳",
+   "value": 22,
+   "ichioshi": 4,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 289,
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "清蘭",
+   "value": 22,
+   "ichioshi": 1,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 289,
+   "source": "八意永琳",
+   "target": "藤原妹紅",
+   "value": 22,
+   "ichioshi": 0,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 289,
+   "source": "火焔猫燐",
+   "target": "古明地こいし",
+   "value": 22,
+   "ichioshi": 5,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 289,
+   "source": "ナズーリン",
+   "target": "森近霖之助",
+   "value": 22,
+   "ichioshi": 3,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 289,
+   "source": "クラウンピース",
+   "target": "サニーミルク",
+   "value": 22,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 289,
+   "source": "エレン",
+   "target": "カナ・アナベラル",
+   "value": 22,
+   "ichioshi": 5,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 301,
+   "source": "博麗霊夢",
+   "target": "鬼人正邪",
+   "value": 21,
+   "ichioshi": 5,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 301,
+   "source": "紅美鈴",
+   "target": "大ナマズ",
+   "value": 21,
+   "ichioshi": 2,
+   "comment": 8,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 301,
+   "source": "アリス・マーガトロイド",
+   "target": "八雲紫",
+   "value": 21,
+   "ichioshi": 5,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 301,
+   "source": "アリス・マーガトロイド",
+   "target": "比那名居天子",
+   "value": 21,
+   "ichioshi": 5,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 301,
+   "source": "東風谷早苗",
+   "target": "宇佐見菫子",
+   "value": 21,
+   "ichioshi": 2,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 301,
+   "source": "稗田阿求",
+   "target": "森近霖之助",
+   "value": 21,
+   "ichioshi": 0,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 307,
+   "source": "レミリア・スカーレット",
+   "target": "チュパカブラ",
+   "value": 20,
+   "ichioshi": 3,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 307,
+   "source": "魂魄妖夢",
+   "target": "比那名居天子",
+   "value": 20,
+   "ichioshi": 2,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 309,
+   "source": "ルーミア",
+   "target": "多々良小傘",
+   "value": 19,
+   "ichioshi": 6,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 309,
+   "source": "小悪魔",
+   "target": "フランドール・スカーレット",
+   "value": 19,
+   "ichioshi": 2,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 309,
+   "source": "パチュリー・ノーレッジ",
+   "target": "魂魄妖夢",
+   "value": 19,
+   "ichioshi": 6,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 309,
+   "source": "十六夜咲夜",
+   "target": "夢子",
+   "value": 19,
+   "ichioshi": 3,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 309,
+   "source": "蓬莱山輝夜",
+   "target": "スターサファイア",
+   "value": 19,
+   "ichioshi": 4,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 309,
+   "source": "鍵山雛",
+   "target": "ドレミー・スイート",
+   "value": 19,
+   "ichioshi": 0,
+   "comment": 14,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 309,
+   "source": "東風谷早苗",
+   "target": "核熱造神ヒソウテンソク",
+   "value": 19,
+   "ichioshi": 1,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 309,
+   "source": "雲居一輪",
+   "target": "秦こころ",
+   "value": 19,
+   "ichioshi": 2,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 309,
+   "source": "幽谷響子",
+   "target": "稀神サグメ",
+   "value": 19,
+   "ichioshi": 1,
+   "comment": 11,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 309,
+   "source": "九十九弁々",
+   "target": "堀川雷鼓",
+   "value": 19,
+   "ichioshi": 4,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 309,
+   "source": "ルナチャイルド",
+   "target": "スターサファイア",
+   "value": 19,
+   "ichioshi": 2,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 320,
+   "source": "博麗霊夢",
+   "target": "二ッ岩マミゾウ",
+   "value": 18,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 320,
+   "source": "レミリア・スカーレット",
+   "target": "八雲紫",
+   "value": 18,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 320,
+   "source": "レミリア・スカーレット",
+   "target": "比那名居天子",
+   "value": 18,
+   "ichioshi": 3,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 320,
+   "source": "フランドール・スカーレット",
+   "target": "クラウンピース",
+   "value": 18,
+   "ichioshi": 3,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 320,
+   "source": "ルナサ・プリズムリバー",
+   "target": "ルナチャイルド",
+   "value": 18,
+   "ichioshi": 1,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 320,
+   "source": "射命丸文",
+   "target": "洩矢諏訪子",
+   "value": 18,
+   "ichioshi": 3,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 320,
+   "source": "風見幽香",
+   "target": "四季映姫・ヤマザナドゥ",
+   "value": 18,
+   "ichioshi": 0,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 320,
+   "source": "四季映姫・ヤマザナドゥ",
+   "target": "ヘカーティア・ラピスラズリ",
+   "value": 18,
+   "ichioshi": 0,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 320,
+   "source": "ナズーリン",
+   "target": "幽谷響子",
+   "value": 18,
+   "ichioshi": 4,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 320,
+   "source": "村紗水蜜",
+   "target": "寅丸星",
+   "value": 18,
+   "ichioshi": 2,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 320,
+   "source": "宇佐見菫子",
+   "target": "マエリベリー・ハーン",
+   "value": 18,
+   "ichioshi": 4,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 331,
+   "source": "博麗霊夢",
+   "target": "宇佐見菫子",
+   "value": 17,
+   "ichioshi": 1,
+   "comment": 0,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 331,
+   "source": "ルーミア",
+   "target": "魂魄妖夢",
+   "value": 17,
+   "ichioshi": 5,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 331,
+   "source": "レミリア・スカーレット",
+   "target": "射命丸文",
+   "value": 17,
+   "ichioshi": 2,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 331,
+   "source": "橙",
+   "target": "犬走椛",
+   "value": 17,
+   "ichioshi": 2,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 331,
+   "source": "魂魄妖夢",
+   "target": "森近霖之助",
+   "value": 17,
+   "ichioshi": 2,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 331,
+   "source": "八雲紫",
+   "target": "茨木華扇",
+   "value": 17,
+   "ichioshi": 2,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 331,
+   "source": "伊吹萃香",
+   "target": "少名針妙丸",
+   "value": 17,
+   "ichioshi": 5,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 331,
+   "source": "射命丸文",
+   "target": "風見幽香",
+   "value": 17,
+   "ichioshi": 4,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 331,
+   "source": "永江衣玖",
+   "target": "堀川雷鼓",
+   "value": 17,
+   "ichioshi": 2,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 331,
+   "source": "エリス",
+   "target": "サリエル",
+   "value": 17,
+   "ichioshi": 3,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 341,
+   "source": "ルーミア",
+   "target": "古明地こいし",
+   "value": 16,
+   "ichioshi": 2,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 341,
+   "source": "紅美鈴",
+   "target": "小野塚小町",
+   "value": 16,
+   "ichioshi": 3,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 341,
+   "source": "レミリア・スカーレット",
+   "target": "古明地こいし",
+   "value": 16,
+   "ichioshi": 5,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 341,
+   "source": "東風谷早苗",
+   "target": "封獣ぬえ",
+   "value": 16,
+   "ichioshi": 2,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 345,
+   "source": "博麗霊夢",
+   "target": "藤原妹紅",
+   "value": 15,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 345,
+   "source": "博麗霊夢",
+   "target": "豊聡耳神子",
+   "value": 15,
+   "ichioshi": 2,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 345,
+   "source": "八雲紫",
+   "target": "四季映姫・ヤマザナドゥ",
+   "value": 15,
+   "ichioshi": 4,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 345,
+   "source": "上白沢慧音",
+   "target": "蓬莱山輝夜",
+   "value": 15,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 345,
+   "source": "因幡てゐ",
+   "target": "メディスン・メランコリー",
+   "value": 15,
+   "ichioshi": 4,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 345,
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "今泉影狼",
+   "value": 15,
+   "ichioshi": 3,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 345,
+   "source": "藤原妹紅",
+   "target": "岩笠",
+   "value": 15,
+   "ichioshi": 3,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 345,
+   "source": "風見幽香",
+   "target": "多々良小傘",
+   "value": 15,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 345,
+   "source": "河城にとり",
+   "target": "東風谷早苗",
+   "value": 15,
+   "ichioshi": 2,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 345,
+   "source": "黒谷ヤマメ",
+   "target": "古明地さとり",
+   "value": 15,
+   "ichioshi": 1,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 345,
+   "source": "星熊勇儀",
+   "target": "古明地さとり",
+   "value": 15,
+   "ichioshi": 1,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 345,
+   "source": "封獣ぬえ",
+   "target": "秦こころ",
+   "value": 15,
+   "ichioshi": 1,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 345,
+   "source": "茨木華扇",
+   "target": "華扇の動物（久米、竿打、雷獣、彭祖、人面犬他）",
+   "value": 15,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 345,
+   "source": "万歳楽",
+   "target": "河童（山童含む）",
+   "value": 15,
+   "ichioshi": 2,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "博麗霊夢",
+   "target": "西行寺幽々子",
+   "value": 14,
+   "ichioshi": 1,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "博麗霊夢",
+   "target": "物部布都",
+   "value": 14,
+   "ichioshi": 1,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "ルーミア",
+   "target": "小悪魔",
+   "value": 14,
+   "ichioshi": 2,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "チルノ",
+   "target": "ミスティア・ローレライ",
+   "value": 14,
+   "ichioshi": 1,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "小悪魔",
+   "target": "アリスの人形（上海、蓬莱、大江戸他）",
+   "value": 14,
+   "ichioshi": 2,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "フランドール・スカーレット",
+   "target": "魂魄妖夢",
+   "value": 14,
+   "ichioshi": 6,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "アリス・マーガトロイド",
+   "target": "夢子",
+   "value": 14,
+   "ichioshi": 0,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "八雲紫",
+   "target": "宇佐見蓮子",
+   "value": 14,
+   "ichioshi": 0,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "八意永琳",
+   "target": "純狐",
+   "value": 14,
+   "ichioshi": 3,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "射命丸文",
+   "target": "霊烏路空",
+   "value": 14,
+   "ichioshi": 3,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "メディスン・メランコリー",
+   "target": "多々良小傘",
+   "value": 14,
+   "ichioshi": 3,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "河城にとり",
+   "target": "洩矢諏訪子",
+   "value": 14,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "犬走椛",
+   "target": "幽谷響子",
+   "value": 14,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "比那名居天子",
+   "target": "綿月依姫",
+   "value": 14,
+   "ichioshi": 4,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "鬼人正邪",
+   "target": "堀川雷鼓",
+   "value": 14,
+   "ichioshi": 3,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "サリエル",
+   "target": "神綺",
+   "value": 14,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 359,
+   "source": "森近霖之助",
+   "target": "魂魄妖忌",
+   "value": 14,
+   "ichioshi": 0,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "博麗霊夢",
+   "target": "鈴仙・優曇華院・イナバ",
+   "value": 13,
+   "ichioshi": 1,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "霧雨魔理沙",
+   "target": "星熊勇儀",
+   "value": 13,
+   "ichioshi": 3,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "大妖精",
+   "target": "フランドール・スカーレット",
+   "value": 13,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "大妖精",
+   "target": "レティ・ホワイトロック",
+   "value": 13,
+   "ichioshi": 3,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "チルノ",
+   "target": "河城にとり",
+   "value": 13,
+   "ichioshi": 0,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "チルノ",
+   "target": "比那名居天子",
+   "value": 13,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "レティ・ホワイトロック",
+   "target": "秋静葉",
+   "value": 13,
+   "ichioshi": 2,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "アリス・マーガトロイド",
+   "target": "射命丸文",
+   "value": 13,
+   "ichioshi": 3,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "アリス・マーガトロイド",
+   "target": "古明地さとり",
+   "value": 13,
+   "ichioshi": 3,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "アリス・マーガトロイド",
+   "target": "ナズーリン",
+   "value": 13,
+   "ichioshi": 2,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "八雲藍",
+   "target": "寅丸星",
+   "value": 13,
+   "ichioshi": 4,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "八雲藍",
+   "target": "純狐",
+   "value": 13,
+   "ichioshi": 0,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "上白沢慧音",
+   "target": "今泉影狼",
+   "value": 13,
+   "ichioshi": 3,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "射命丸文",
+   "target": "森近霖之助",
+   "value": 13,
+   "ichioshi": 3,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "四季映姫・ヤマザナドゥ",
+   "target": "稗田阿求",
+   "value": 13,
+   "ichioshi": 1,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "東風谷早苗",
+   "target": "姫海棠はたて",
+   "value": 13,
+   "ichioshi": 1,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "物部布都",
+   "target": "都市伝説の怪異（お菊さん、八尺さま他）",
+   "value": 13,
+   "ichioshi": 2,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "九十九八橋",
+   "target": "堀川雷鼓",
+   "value": 13,
+   "ichioshi": 2,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "サラ",
+   "target": "ルイズ",
+   "value": 13,
+   "ichioshi": 2,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "森近霖之助",
+   "target": "茨木華扇",
+   "value": 13,
+   "ichioshi": 4,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 376,
+   "source": "るーこと",
+   "target": "ミミちゃん",
+   "value": 13,
+   "ichioshi": 0,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "博麗霊夢",
+   "target": "古明地こいし",
+   "value": 12,
+   "ichioshi": 2,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "博麗霊夢",
+   "target": "サニーミルク",
+   "value": 12,
+   "ichioshi": 3,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "霧雨魔理沙",
+   "target": "紅美鈴",
+   "value": 12,
+   "ichioshi": 1,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "霧雨魔理沙",
+   "target": "リリカ・プリズムリバー",
+   "value": 12,
+   "ichioshi": 1,
+   "comment": 6,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "霧雨魔理沙",
+   "target": "古明地さとり",
+   "value": 12,
+   "ichioshi": 1,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "ルーミア",
+   "target": "アリス・マーガトロイド",
+   "value": 12,
+   "ichioshi": 0,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "ルーミア",
+   "target": "風見幽香",
+   "value": 12,
+   "ichioshi": 5,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "チルノ",
+   "target": "リグル・ナイトバグ",
+   "value": 12,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "十六夜咲夜",
+   "target": "鈴仙・優曇華院・イナバ",
+   "value": 12,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "レミリア・スカーレット",
+   "target": "綿月依姫",
+   "value": 12,
+   "ichioshi": 2,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "フランドール・スカーレット",
+   "target": "橙",
+   "value": 12,
+   "ichioshi": 0,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "アリス・マーガトロイド",
+   "target": "魂魄妖夢",
+   "value": 12,
+   "ichioshi": 2,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "河城にとり",
+   "target": "古明地さとり",
+   "value": 12,
+   "ichioshi": 3,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "比那名居天子",
+   "target": "封獣ぬえ",
+   "value": 12,
+   "ichioshi": 4,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "水橋パルスィ",
+   "target": "鬼人正邪",
+   "value": 12,
+   "ichioshi": 3,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "古明地さとり",
+   "target": "鬼人正邪",
+   "value": 12,
+   "ichioshi": 3,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "古明地こいし",
+   "target": "ドレミー・スイート",
+   "value": 12,
+   "ichioshi": 3,
+   "comment": 7,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "ナズーリン",
+   "target": "聖白蓮",
+   "value": 12,
+   "ichioshi": 2,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "聖白蓮",
+   "target": "幽谷響子",
+   "value": 12,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "封獣ぬえ",
+   "target": "UFO（赤・青・緑、その他）",
+   "value": 12,
+   "ichioshi": 1,
+   "comment": 0,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "二ッ岩マミゾウ",
+   "target": "ウワバミ",
+   "value": 12,
+   "ichioshi": 0,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "朝倉理香子",
+   "target": "岡崎夢美",
+   "value": 12,
+   "ichioshi": 2,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 397,
+   "source": "ルイズ",
+   "target": "夢子",
+   "value": 12,
+   "ichioshi": 1,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "博麗霊夢",
+   "target": "パチュリー・ノーレッジ",
+   "value": 11,
+   "ichioshi": 3,
+   "comment": 0,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "大妖精",
+   "target": "風見幽香",
+   "value": 11,
+   "ichioshi": 3,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "十六夜咲夜",
+   "target": "射命丸文",
+   "value": 11,
+   "ichioshi": 1,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "十六夜咲夜",
+   "target": "犬走椛",
+   "value": 11,
+   "ichioshi": 1,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "アリス・マーガトロイド",
+   "target": "ミスティア・ローレライ",
+   "value": 11,
+   "ichioshi": 2,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "アリス・マーガトロイド",
+   "target": "鍵山雛",
+   "value": 11,
+   "ichioshi": 2,
+   "comment": 0,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "藤原妹紅",
+   "target": "射命丸文",
+   "value": 11,
+   "ichioshi": 2,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "藤原妹紅",
+   "target": "稗田阿求",
+   "value": 11,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "伊吹萃香",
+   "target": "酒虫",
+   "value": 11,
+   "ichioshi": 1,
+   "comment": 5,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "射命丸文",
+   "target": "四季映姫・ヤマザナドゥ",
+   "value": 11,
+   "ichioshi": 3,
+   "comment": 4,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "風見幽香",
+   "target": "森近霖之助",
+   "value": 11,
+   "ichioshi": 1,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "四季映姫・ヤマザナドゥ",
+   "target": "茨木華扇",
+   "value": 11,
+   "ichioshi": 2,
+   "comment": 1,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "河城にとり",
+   "target": "村紗水蜜",
+   "value": 11,
+   "ichioshi": 3,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "多々良小傘",
+   "target": "聖白蓮",
+   "value": 11,
+   "ichioshi": 2,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "宇佐見菫子",
+   "target": "岡崎夢美",
+   "value": 11,
+   "ichioshi": 1,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "ドレミー・スイート",
+   "target": "ヘカーティア・ラピスラズリ",
+   "value": 11,
+   "ichioshi": 0,
+   "comment": 3,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "稀神サグメ",
+   "target": "純狐",
+   "value": 11,
+   "ichioshi": 1,
+   "comment": 2,
+   "isDifferentgroup": ""
+ },
+ {
+   "ranking": 420,
+   "source": "宇佐見蓮子",
+   "target": "森近霖之助",
+   "value": 11,
+   "ichioshi": 0,
+   "comment": 1,
+   "isDifferentgroup": ""
+ }
 ]
 }

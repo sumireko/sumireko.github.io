@@ -1,0 +1,3061 @@
+[
+ {
+   "source": "博麗霊夢",
+   "target": "霧雨魔理沙",
+   "value": "12063",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "宇佐見蓮子",
+   "target": "マエリベリー・ハーン",
+   "value": "5178",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "アリス・マーガトロイド",
+   "value": "4946",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "十六夜咲夜",
+   "target": "レミリア・スカーレット",
+   "value": "4121",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "古明地さとり",
+   "target": "古明地こいし",
+   "value": "3679",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "レミリア・スカーレット",
+   "target": "フランドール・スカーレット",
+   "value": "3586",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "紅美鈴",
+   "target": "十六夜咲夜",
+   "value": "3186",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "魂魄妖夢",
+   "target": "西行寺幽々子",
+   "value": "3126",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "上白沢慧音",
+   "target": "藤原妹紅",
+   "value": "3082",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "蓬莱山輝夜",
+   "target": "藤原妹紅",
+   "value": "2771",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "古明地こいし",
+   "target": "秦こころ",
+   "value": "2576",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "西行寺幽々子",
+   "target": "八雲紫",
+   "value": "2402",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "大妖精",
+   "target": "チルノ",
+   "value": "2391",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "八雲紫",
+   "value": "2247",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "鬼人正邪",
+   "target": "少名針妙丸",
+   "value": "1866",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "射命丸文",
+   "target": "犬走椛",
+   "value": "1862",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "小野塚小町",
+   "target": "四季映姫・ヤマザナドゥ",
+   "value": "1744",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "フランドール・スカーレット",
+   "target": "古明地こいし",
+   "value": "1725",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "魂魄妖夢",
+   "target": "鈴仙・優曇華院・イナバ",
+   "value": "1688",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ドレミー・スイート",
+   "target": "稀神サグメ",
+   "value": "1594",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "純狐",
+   "target": "ヘカーティア・ラピスラズリ",
+   "value": "1555",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ナズーリン",
+   "target": "寅丸星",
+   "value": "1523",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "稗田阿求",
+   "target": "本居小鈴",
+   "value": "1478",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "火焔猫燐",
+   "target": "霊烏路空",
+   "value": "1414",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "水橋パルスィ",
+   "target": "星熊勇儀",
+   "value": "1324",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "純狐",
+   "value": "1283",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "東風谷早苗",
+   "value": "1223",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "橙",
+   "target": "八雲藍",
+   "value": "1088",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "射命丸文",
+   "target": "姫海棠はたて",
+   "value": "1082",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "永江衣玖",
+   "target": "比那名居天子",
+   "value": "985",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "秋静葉",
+   "target": "秋穣子",
+   "value": "977",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "聖白蓮",
+   "target": "豊聡耳神子",
+   "value": "943",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "清蘭",
+   "target": "鈴瑚",
+   "value": "899",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "小悪魔",
+   "target": "パチュリー・ノーレッジ",
+   "value": "898",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "蘇我屠自古",
+   "target": "物部布都",
+   "value": "868",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "森近霖之助",
+   "value": "851",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "パチュリー・ノーレッジ",
+   "target": "レミリア・スカーレット",
+   "value": "844",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "フランドール・スカーレット",
+   "value": "825",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "因幡てゐ",
+   "target": "鈴仙・優曇華院・イナバ",
+   "value": "784",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八坂神奈子",
+   "target": "洩矢諏訪子",
+   "value": "752",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八意永琳",
+   "target": "蓬莱山輝夜",
+   "value": "734",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "わかさぎ姫",
+   "target": "今泉影狼",
+   "value": "715",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "紅美鈴",
+   "target": "フランドール・スカーレット",
+   "value": "702",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "パチュリー・ノーレッジ",
+   "value": "693",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "東風谷早苗",
+   "target": "多々良小傘",
+   "value": "687",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八雲藍",
+   "target": "八雲紫",
+   "value": "683",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "鍵山雛",
+   "target": "河城にとり",
+   "value": "678",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "パチュリー・ノーレッジ",
+   "target": "アリス・マーガトロイド",
+   "value": "653",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ミスティア・ローレライ",
+   "target": "幽谷響子",
+   "value": "607",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "宮古芳香",
+   "target": "霍青娥",
+   "value": "606",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "アリス・マーガトロイド",
+   "value": "598",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "藤原妹紅",
+   "target": "宇佐見菫子",
+   "value": "565",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "射命丸文",
+   "value": "532",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "十六夜咲夜",
+   "target": "魂魄妖夢",
+   "value": "531",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "レミリア・スカーレット",
+   "target": "古明地さとり",
+   "value": "490",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "伊吹萃香",
+   "value": "465",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "レミリア・スカーレット",
+   "value": "456",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "十六夜咲夜",
+   "value": "433",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "易者",
+   "value": "429",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "蘇我屠自古",
+   "target": "豊聡耳神子",
+   "value": "418",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "クラウンピース",
+   "target": "ヘカーティア・ラピスラズリ",
+   "value": "406",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "九十九弁々",
+   "target": "九十九八橋",
+   "value": "403",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "封獣ぬえ",
+   "target": "二ッ岩マミゾウ",
+   "value": "397",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "封獣ぬえ",
+   "target": "鬼人正邪",
+   "value": "387",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "多々良小傘",
+   "target": "封獣ぬえ",
+   "value": "381",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "夢月",
+   "target": "幻月",
+   "value": "360",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "十六夜咲夜",
+   "value": "343",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "十六夜咲夜",
+   "target": "アリス・マーガトロイド",
+   "value": "325",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "物部布都",
+   "target": "豊聡耳神子",
+   "value": "324",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "河城にとり",
+   "target": "犬走椛",
+   "value": "323",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "北白河ちゆり",
+   "target": "岡崎夢美",
+   "value": "322",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "チルノ",
+   "target": "射命丸文",
+   "value": "321",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "雲居一輪",
+   "target": "物部布都",
+   "value": "308",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "東風谷早苗",
+   "target": "洩矢諏訪子",
+   "value": "302",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "村紗水蜜",
+   "target": "封獣ぬえ",
+   "value": "302",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "八意永琳",
+   "value": "298",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "河城にとり",
+   "value": "290",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "鬼人正邪",
+   "target": "稀神サグメ",
+   "value": "290",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ユキ",
+   "target": "マイ",
+   "value": "282",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "茨木華扇",
+   "value": "280",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "ルーミア",
+   "value": "279",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "魅魔",
+   "value": "277",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "アリス・マーガトロイド",
+   "target": "神綺",
+   "value": "269",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルーミア",
+   "target": "ミスティア・ローレライ",
+   "value": "266",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "豊聡耳神子",
+   "target": "秦こころ",
+   "value": "266",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "純狐",
+   "target": "嫦娥",
+   "value": "255",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "伊吹萃香",
+   "target": "星熊勇儀",
+   "value": "247",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "二ッ岩マミゾウ",
+   "target": "本居小鈴",
+   "value": "245",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "雲居一輪",
+   "target": "雲山",
+   "value": "242",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "アリス・マーガトロイド",
+   "target": "風見幽香",
+   "value": "240",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "射命丸文",
+   "target": "東風谷早苗",
+   "value": "237",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "綿月豊姫",
+   "target": "綿月依姫",
+   "value": "233",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "雲居一輪",
+   "target": "村紗水蜜",
+   "value": "232",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "蓬莱山輝夜",
+   "value": "227",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "チルノ",
+   "target": "レティ・ホワイトロック",
+   "value": "225",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルーミア",
+   "target": "フランドール・スカーレット",
+   "value": "223",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "フランドール・スカーレット",
+   "target": "射命丸文",
+   "value": "217",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "少名針妙丸",
+   "value": "208",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "リグル・ナイトバグ",
+   "target": "ミスティア・ローレライ",
+   "value": "206",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "紅美鈴",
+   "target": "レミリア・スカーレット",
+   "value": "201",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "メディスン・メランコリー",
+   "target": "風見幽香",
+   "value": "201",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "リグル・ナイトバグ",
+   "target": "風見幽香",
+   "value": "198",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "犬走椛",
+   "target": "姫海棠はたて",
+   "value": "194",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "アリス・マーガトロイド",
+   "target": "アリスの人形（上海・蓬莱・大江戸他）",
+   "value": "176",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "多々良小傘",
+   "target": "赤蛮奇",
+   "value": "174",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルーミア",
+   "target": "チルノ",
+   "value": "172",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "犬走椛",
+   "target": "今泉影狼",
+   "value": "161",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八雲紫",
+   "target": "比那名居天子",
+   "value": "157",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霍青娥",
+   "target": "茨木華扇",
+   "value": "157",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "黒谷ヤマメ",
+   "target": "水橋パルスィ",
+   "value": "152",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "宇佐見菫子",
+   "target": "森近霖之助",
+   "value": "151",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "抗鬱薬おじさん",
+   "value": "150",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "鍵山雛",
+   "target": "水橋パルスィ",
+   "value": "150",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霍青娥",
+   "target": "豊聡耳神子",
+   "value": "147",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "キスメ",
+   "target": "黒谷ヤマメ",
+   "value": "146",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ミスティア・ローレライ",
+   "target": "藤原妹紅",
+   "value": "140",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ナズーリン",
+   "target": "多々良小傘",
+   "value": "136",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "比那名居天子",
+   "target": "霊烏路空",
+   "value": "128",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "蓬莱人形ジャケットイラストの娘",
+   "target": "蓬莱人形レーベルイラストの娘",
+   "value": "123",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "射命丸文",
+   "target": "河城にとり",
+   "value": "122",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "藤原妹紅",
+   "value": "121",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "チルノ",
+   "target": "クラウンピース",
+   "value": "118",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "伊吹萃香",
+   "target": "茨木華扇",
+   "value": "111",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "東風谷早苗",
+   "target": "比那名居天子",
+   "value": "108",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "古明地さとり",
+   "target": "火焔猫燐",
+   "value": "107",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "十六夜咲夜",
+   "target": "フランドール・スカーレット",
+   "value": "106",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "水橋パルスィ",
+   "target": "古明地さとり",
+   "value": "106",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "赤蛮奇と今泉",
+   "target": "影狼",
+   "value": "106",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルナサ・プリズムリバー",
+   "target": "魂魄妖夢",
+   "value": "105",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "易者",
+   "target": "抗鬱薬おじさん",
+   "value": "102",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "上白沢慧音",
+   "target": "森近霖之助",
+   "value": "99",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "森近霖之助",
+   "value": "96",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "上白沢慧音",
+   "target": "八意永琳",
+   "value": "91",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "小野塚小町",
+   "target": "茨木華扇",
+   "value": "91",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "宮古芳香",
+   "target": "茨木華扇",
+   "value": "89",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "クラウンピース",
+   "target": "純狐",
+   "value": "88",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "四季映姫・ヤマザナドゥ",
+   "target": "古明地さとり",
+   "value": "86",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "森近霖之助",
+   "target": "名無しの本読み妖怪",
+   "value": "84",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "本居小鈴",
+   "value": "83",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "東風谷早苗",
+   "target": "八坂神奈子",
+   "value": "83",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "魂魄妖夢",
+   "value": "82",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "宇佐見菫子",
+   "target": "茨木華扇",
+   "value": "81",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "風見幽香",
+   "target": "比那名居天子",
+   "value": "80",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "チルノ",
+   "value": "79",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "古明地さとり",
+   "target": "稀神サグメ",
+   "value": "79",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "聖白蓮",
+   "target": "封獣ぬえ",
+   "value": "77",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "夢子",
+   "target": "神綺",
+   "value": "76",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "風見幽香",
+   "value": "74",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "多々良小傘",
+   "target": "幽谷響子",
+   "value": "71",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "チルノ",
+   "target": "洩矢諏訪子",
+   "value": "70",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "寅丸星",
+   "target": "聖白蓮",
+   "value": "70",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "わかさぎ姫",
+   "target": "赤蛮奇",
+   "value": "70",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "チルノ",
+   "value": "69",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "明羅",
+   "value": "69",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "本居小鈴",
+   "target": "なめえもん",
+   "value": "68",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "比那名居天子",
+   "value": "67",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "ルーミア",
+   "value": "67",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "ヘカーティア・ラピスラズリ",
+   "value": "67",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "レティ・ホワイトロック",
+   "target": "風見幽香",
+   "value": "67",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "古明地さとり",
+   "target": "秦こころ",
+   "value": "62",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "綿月依姫",
+   "value": "61",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "古明地こいし",
+   "target": "封獣ぬえ",
+   "value": "61",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "パチュリー・ノーレッジ",
+   "target": "十六夜咲夜",
+   "value": "60",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八意永琳",
+   "target": "メディスン・メランコリー",
+   "value": "59",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "風見幽香",
+   "target": "魅魔",
+   "value": "59",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "フランドール・スカーレット",
+   "value": "58",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "紅美鈴",
+   "target": "パチュリー・ノーレッジ",
+   "value": "58",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "風見幽香",
+   "target": "エリー",
+   "value": "58",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "橙",
+   "target": "火焔猫燐",
+   "value": "57",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "大妖精",
+   "target": "小悪魔",
+   "value": "56",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "西行寺幽々子",
+   "target": "ミスティア・ローレライ",
+   "value": "56",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八雲藍",
+   "target": "二ッ岩マミゾウ",
+   "value": "56",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "パチュリー・ノーレッジ",
+   "target": "フランドール・スカーレット",
+   "value": "55",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "古明地さとり",
+   "target": "霊烏路空",
+   "value": "55",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八雲紫",
+   "target": "風見幽香",
+   "value": "53",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八雲紫",
+   "target": "マエリベリー・ハーン",
+   "value": "53",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ウワバミ",
+   "target": "易者",
+   "value": "53",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "古明地さとり",
+   "value": "52",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "魂魄妖夢",
+   "target": "魂魄妖忌",
+   "value": "52",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "東風谷早苗",
+   "target": "ヘカーティア・ラピスラズリ",
+   "value": "52",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルーミア",
+   "target": "リグル・ナイトバグ",
+   "value": "51",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "伊吹萃香",
+   "target": "比那名居天子",
+   "value": "51",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "村紗水蜜",
+   "target": "聖白蓮",
+   "value": "51",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "雲居一輪",
+   "target": "聖白蓮",
+   "value": "49",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "アリス・マーガトロイド",
+   "target": "メディスン・メランコリー",
+   "value": "48",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "大妖精",
+   "target": "リリーホワイト",
+   "value": "47",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "チルノ",
+   "target": "レミリア・スカーレット",
+   "value": "46",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "チルノ",
+   "target": "風見幽香",
+   "value": "46",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "多々良小傘",
+   "target": "秦こころ",
+   "value": "46",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "八雲藍",
+   "value": "45",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "宇佐見菫子",
+   "target": "宇佐見蓮子",
+   "value": "45",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "鈴仙・優曇華院・イナバ",
+   "value": "44",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "龍（子龍、邪龍他）",
+   "value": "44",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "アリス・マーガトロイド",
+   "target": "東風谷早苗",
+   "value": "44",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "紅美鈴",
+   "target": "風見幽香",
+   "value": "43",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルナサ・プリズムリバー",
+   "target": "メルラン・プリズムリバー",
+   "value": "43",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "メディスン・メランコリー",
+   "target": "鍵山雛",
+   "value": "43",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "魂魄妖夢",
+   "value": "42",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "玄爺",
+   "value": "42",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "橙",
+   "target": "因幡てゐ",
+   "value": "42",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "藤原妹紅",
+   "value": "41",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "小悪魔",
+   "target": "十六夜咲夜",
+   "value": "41",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "因幡てゐ",
+   "target": "蓬莱山輝夜",
+   "value": "41",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "魂魄妖夢",
+   "target": "犬走椛",
+   "value": "40",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "風見幽香",
+   "value": "39",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "フランドール・スカーレット",
+   "target": "封獣ぬえ",
+   "value": "39",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "魂魄妖夢",
+   "target": "東風谷早苗",
+   "value": "39",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "レティ・ホワイトロック",
+   "value": "38",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八雲紫",
+   "target": "伊吹萃香",
+   "value": "38",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "レイセン",
+   "value": "38",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "フランドール・スカーレット",
+   "target": "アリス・マーガトロイド",
+   "value": "37",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "八雲紫",
+   "value": "36",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "チルノ",
+   "target": "フランドール・スカーレット",
+   "value": "36",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "チルノ",
+   "target": "藤原妹紅",
+   "value": "36",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "レミリア・スカーレット",
+   "target": "多々良小傘",
+   "value": "36",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "風見幽香",
+   "target": "堀川雷鼓",
+   "value": "36",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "東風谷早苗",
+   "target": "古明地こいし",
+   "value": "36",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "雲山",
+   "target": "森近霖之助",
+   "value": "36",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "サニーミルク",
+   "target": "ルナチャイルド",
+   "value": "36",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルーミア",
+   "target": "レミリア・スカーレット",
+   "value": "35",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "レミリア・スカーレット",
+   "target": "アリス・マーガトロイド",
+   "value": "35",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "フランドール・スカーレット",
+   "target": "藤原妹紅",
+   "value": "35",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "西行寺幽々子",
+   "target": "魂魄妖忌",
+   "value": "35",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "東風谷早苗",
+   "value": "34",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "チルノ",
+   "target": "紅美鈴",
+   "value": "34",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八雲紫",
+   "target": "綿月豊姫",
+   "value": "34",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "河城にとり",
+   "target": "黒谷ヤマメ",
+   "value": "34",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "多々良小傘",
+   "target": "宮古芳香",
+   "value": "34",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "サリエル",
+   "target": "コンガラ",
+   "value": "34",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "魅魔",
+   "target": "神綺",
+   "value": "34",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "古明地こいし",
+   "value": "33",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "魂魄妖夢",
+   "target": "物部布都",
+   "value": "33",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ミスティア・ローレライ",
+   "target": "名無しの本読み妖怪",
+   "value": "33",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "伊吹萃香",
+   "target": "射命丸文",
+   "value": "33",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "四季映姫・ヤマザナドゥ",
+   "target": "鬼人正邪",
+   "value": "33",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霊烏路空",
+   "target": "古明地こいし",
+   "value": "33",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霍青娥",
+   "target": "蘇我屠自古",
+   "value": "33",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルーミア",
+   "target": "大妖精",
+   "value": "32",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルーミア",
+   "target": "キスメ",
+   "value": "32",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "大妖精",
+   "target": "ルナサ・プリズムリバー",
+   "value": "32",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "チルノ",
+   "target": "霊烏路空",
+   "value": "32",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "魂魄妖夢",
+   "target": "八雲藍",
+   "value": "32",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八雲紫",
+   "target": "八意永琳",
+   "value": "32",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "リグル・ナイトバグ",
+   "target": "黒谷ヤマメ",
+   "value": "32",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "多々良小傘",
+   "value": "31",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "射命丸文",
+   "value": "31",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "橙",
+   "target": "ナズーリン",
+   "value": "31",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "射命丸文",
+   "target": "本居小鈴",
+   "value": "31",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "風見幽香",
+   "target": "幻月",
+   "value": "31",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "二ッ岩マミゾウ",
+   "target": "秦こころ",
+   "value": "31",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "聖白蓮",
+   "target": "秦こころ",
+   "value": "30",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "十六夜咲夜",
+   "target": "東風谷早苗",
+   "value": "29",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "レティ・ホワイトロック",
+   "target": "リリーホワイト",
+   "value": "29",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "聖白蓮",
+   "target": "命蓮",
+   "value": "29",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "本居小鈴",
+   "target": "易者",
+   "value": "29",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "紅美鈴",
+   "target": "小悪魔",
+   "value": "28",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "十六夜咲夜",
+   "target": "森近霖之助",
+   "value": "28",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "フランドール・スカーレット",
+   "target": "サニーミルク",
+   "value": "28",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "メルラン・プリズムリバー",
+   "target": "リリカ・プリズムリバー",
+   "value": "28",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "射命丸文",
+   "target": "稗田阿求",
+   "value": "28",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "キクリ",
+   "target": "コンガラ",
+   "value": "28",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "くるみ",
+   "target": "エリー",
+   "value": "28",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "火焔猫燐",
+   "value": "27",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "秦こころ",
+   "value": "27",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "橙",
+   "target": "八雲紫",
+   "value": "27",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "レミリア・スカーレット",
+   "value": "26",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルナサ・プリズムリバー",
+   "target": "リリカ・プリズムリバー",
+   "value": "26",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "東風谷早苗",
+   "value": "26",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霍青娥",
+   "target": "物部布都",
+   "value": "26",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "少名針妙丸",
+   "target": "宇佐見菫子",
+   "value": "26",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "魅魔",
+   "value": "25",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "聖白蓮",
+   "value": "25",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "フランドール・スカーレット",
+   "target": "古明地さとり",
+   "value": "25",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八雲紫",
+   "target": "森近霖之助",
+   "value": "25",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "水橋パルスィ",
+   "target": "古明地こいし",
+   "value": "25",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "二ッ岩マミゾウ",
+   "target": "茨木華扇",
+   "value": "25",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "稀神サグメ",
+   "target": "クラウンピース",
+   "value": "25",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "本居小鈴",
+   "target": "狐（妖怪狐、狐の子他）",
+   "value": "25",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "十六夜咲夜",
+   "target": "八意永琳",
+   "value": "24",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "リリカ・プリズムリバー",
+   "target": "九十九八橋",
+   "value": "24",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "四季映姫・ヤマザナドゥ",
+   "target": "聖白蓮",
+   "value": "24",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "古明地こいし",
+   "target": "多々良小傘",
+   "value": "24",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "古明地こいしと",
+   "target": "鬼人正邪",
+   "value": "24",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "聖白蓮",
+   "target": "神綺",
+   "value": "24",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "幽谷響子",
+   "target": "今泉影狼",
+   "value": "24",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八意永琳",
+   "target": "稀神サグメ",
+   "value": "23",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "犬走椛",
+   "target": "東風谷早苗",
+   "value": "23",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "サニーミルク",
+   "target": "スターサファイア",
+   "value": "23",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "本居小鈴",
+   "value": "22",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "紅美鈴",
+   "target": "星熊勇儀",
+   "value": "22",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "パチュリー・ノーレッジ",
+   "target": "古明地さとり",
+   "value": "22",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八雲紫",
+   "target": "宇佐見菫子",
+   "value": "22",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ミスティア・ローレライ",
+   "target": "射命丸文",
+   "value": "22",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "因幡てゐ",
+   "target": "八意永琳",
+   "value": "22",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "清蘭",
+   "value": "22",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八意永琳",
+   "target": "藤原妹紅",
+   "value": "22",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "火焔猫燐",
+   "target": "古明地こいし",
+   "value": "22",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ナズーリン",
+   "target": "森近霖之助",
+   "value": "22",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "クラウンピース",
+   "target": "サニーミルク",
+   "value": "22",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "エレン",
+   "target": "カナ・アナベラル",
+   "value": "22",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "鬼人正邪",
+   "value": "21",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "紅美鈴",
+   "target": "大ナマズ",
+   "value": "21",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "アリス・マーガトロイド",
+   "target": "八雲紫",
+   "value": "21",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "アリス・マーガトロイド",
+   "target": "比那名居天子",
+   "value": "21",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "東風谷早苗",
+   "target": "宇佐見菫子",
+   "value": "21",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "稗田阿求",
+   "target": "森近霖之助",
+   "value": "21",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "レミリア・スカーレット",
+   "target": "チュパカブラ",
+   "value": "20",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "魂魄妖夢",
+   "target": "比那名居天子",
+   "value": "20",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルーミア",
+   "target": "多々良小傘",
+   "value": "19",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "小悪魔",
+   "target": "フランドール・スカーレット",
+   "value": "19",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "パチュリー・ノーレッジ",
+   "target": "魂魄妖夢",
+   "value": "19",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "十六夜咲夜",
+   "target": "夢子",
+   "value": "19",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "蓬莱山輝夜",
+   "target": "スターサファイア",
+   "value": "19",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "鍵山雛",
+   "target": "ドレミー・スイート",
+   "value": "19",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "東風谷早苗",
+   "target": "核熱造神ヒソウテンソク",
+   "value": "19",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "雲居一輪",
+   "target": "秦こころ",
+   "value": "19",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "幽谷響子",
+   "target": "稀神サグメ",
+   "value": "19",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "九十九弁々",
+   "target": "堀川雷鼓",
+   "value": "19",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルナチャイルド",
+   "target": "スターサファイア",
+   "value": "19",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "二ッ岩マミゾウ",
+   "value": "18",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "レミリア・スカーレット",
+   "target": "八雲紫",
+   "value": "18",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "レミリア・スカーレット",
+   "target": "比那名居天子",
+   "value": "18",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "フランドール・スカーレット",
+   "target": "クラウンピース",
+   "value": "18",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルナサ・プリズムリバー",
+   "target": "ルナチャイルド",
+   "value": "18",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "射命丸文",
+   "target": "洩矢諏訪子",
+   "value": "18",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "風見幽香",
+   "target": "四季映姫・ヤマザナドゥ",
+   "value": "18",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "四季映姫・ヤマザナドゥ",
+   "target": "ヘカーティア・ラピスラズリ",
+   "value": "18",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ナズーリン",
+   "target": "幽谷響子",
+   "value": "18",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "村紗水蜜",
+   "target": "寅丸星",
+   "value": "18",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "宇佐見菫子",
+   "target": "マエリベリー・ハーン",
+   "value": "18",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "宇佐見菫子",
+   "value": "17",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルーミア",
+   "target": "魂魄妖夢",
+   "value": "17",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "レミリア・スカーレット",
+   "target": "射命丸文",
+   "value": "17",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "橙",
+   "target": "犬走椛",
+   "value": "17",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "魂魄妖夢",
+   "target": "森近霖之助",
+   "value": "17",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八雲紫",
+   "target": "茨木華扇",
+   "value": "17",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "伊吹萃香",
+   "target": "少名針妙丸",
+   "value": "17",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "射命丸文",
+   "target": "風見幽香",
+   "value": "17",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "永江衣玖",
+   "target": "堀川雷鼓",
+   "value": "17",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "エリス",
+   "target": "サリエル",
+   "value": "17",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルーミア",
+   "target": "古明地こいし",
+   "value": "16",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "紅美鈴",
+   "target": "小野塚小町",
+   "value": "16",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "レミリア・スカーレット",
+   "target": "古明地こいし",
+   "value": "16",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "東風谷早苗",
+   "target": "封獣ぬえ",
+   "value": "16",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "藤原妹紅",
+   "value": "15",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "豊聡耳神子",
+   "value": "15",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八雲紫",
+   "target": "四季映姫・ヤマザナドゥ",
+   "value": "15",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "上白沢慧音",
+   "target": "蓬莱山輝夜",
+   "value": "15",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "因幡てゐ",
+   "target": "メディスン・メランコリー",
+   "value": "15",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "鈴仙・優曇華院・イナバ",
+   "target": "今泉影狼",
+   "value": "15",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "藤原妹紅",
+   "target": "岩笠",
+   "value": "15",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "風見幽香",
+   "target": "多々良小傘",
+   "value": "15",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "河城にとり",
+   "target": "東風谷早苗",
+   "value": "15",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "黒谷ヤマメ",
+   "target": "古明地さとり",
+   "value": "15",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "星熊勇儀",
+   "target": "古明地さとり",
+   "value": "15",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "封獣ぬえ",
+   "target": "秦こころ",
+   "value": "15",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "茨木華扇",
+   "target": "華扇の動物（久米、竿打、雷獣、彭祖、人面犬他）",
+   "value": "15",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "万歳楽",
+   "target": "河童（山童含む）",
+   "value": "15",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "西行寺幽々子",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "物部布都",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルーミア",
+   "target": "小悪魔",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "チルノ",
+   "target": "ミスティア・ローレライ",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "小悪魔",
+   "target": "アリスの人形（上海、蓬莱、大江戸他）",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "フランドール・スカーレット",
+   "target": "魂魄妖夢",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "アリス・マーガトロイド",
+   "target": "夢子",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八雲紫",
+   "target": "宇佐見蓮子",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八意永琳",
+   "target": "純狐",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "射命丸文",
+   "target": "霊烏路空",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "メディスン・メランコリー",
+   "target": "多々良小傘",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "河城にとり",
+   "target": "洩矢諏訪子",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "犬走椛",
+   "target": "幽谷響子",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "比那名居天子",
+   "target": "綿月依姫",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "鬼人正邪",
+   "target": "堀川雷鼓",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "サリエル",
+   "target": "神綺",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "森近霖之助",
+   "target": "魂魄妖忌",
+   "value": "14",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "鈴仙・優曇華院・イナバ",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "星熊勇儀",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "大妖精",
+   "target": "フランドール・スカーレット",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "大妖精",
+   "target": "レティ・ホワイトロック",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "チルノ",
+   "target": "河城にとり",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "チルノ",
+   "target": "比那名居天子",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "レティ・ホワイトロック",
+   "target": "秋静葉",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "アリス・マーガトロイド",
+   "target": "射命丸文",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "アリス・マーガトロイド",
+   "target": "古明地さとり",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "アリス・マーガトロイド",
+   "target": "ナズーリン",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八雲藍",
+   "target": "寅丸星",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "八雲藍",
+   "target": "純狐",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "上白沢慧音",
+   "target": "今泉影狼",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "射命丸文",
+   "target": "森近霖之助",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "四季映姫・ヤマザナドゥ",
+   "target": "稗田阿求",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "東風谷早苗",
+   "target": "姫海棠はたて",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "物部布都",
+   "target": "都市伝説の怪異（お菊さん、八尺さま他）",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "九十九八橋",
+   "target": "堀川雷鼓",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "サラ",
+   "target": "ルイズ",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "森近霖之助",
+   "target": "茨木華扇",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "るーこと",
+   "target": "ミミちゃん",
+   "value": "13",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "古明地こいし",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "サニーミルク",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "紅美鈴",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "リリカ・プリズムリバー",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "霧雨魔理沙",
+   "target": "古明地さとり",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルーミア",
+   "target": "アリス・マーガトロイド",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルーミア",
+   "target": "風見幽香",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "チルノ",
+   "target": "リグル・ナイトバグ",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "十六夜咲夜",
+   "target": "鈴仙・優曇華院・イナバ",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "レミリア・スカーレット",
+   "target": "綿月依姫",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "フランドール・スカーレット",
+   "target": "橙",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "アリス・マーガトロイド",
+   "target": "魂魄妖夢",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "河城にとり",
+   "target": "古明地さとり",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "比那名居天子",
+   "target": "封獣ぬえ",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "水橋パルスィ",
+   "target": "鬼人正邪",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "古明地さとり",
+   "target": "鬼人正邪",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "古明地こいし",
+   "target": "ドレミー・スイート",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ナズーリン",
+   "target": "聖白蓮",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "聖白蓮",
+   "target": "幽谷響子",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "封獣ぬえ",
+   "target": "UFO（赤・青・緑、その他）",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "二ッ岩マミゾウ",
+   "target": "ウワバミ",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "朝倉理香子",
+   "target": "岡崎夢美",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ルイズ",
+   "target": "夢子",
+   "value": "12",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "博麗霊夢",
+   "target": "パチュリー・ノーレッジ",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "大妖精",
+   "target": "風見幽香",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "十六夜咲夜",
+   "target": "射命丸文",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "十六夜咲夜",
+   "target": "犬走椛",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "アリス・マーガトロイド",
+   "target": "ミスティア・ローレライ",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "アリス・マーガトロイド",
+   "target": "鍵山雛",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "藤原妹紅",
+   "target": "射命丸文",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "藤原妹紅",
+   "target": "稗田阿求",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "伊吹萃香",
+   "target": "酒虫",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "射命丸文",
+   "target": "四季映姫・ヤマザナドゥ",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "風見幽香",
+   "target": "森近霖之助",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "四季映姫・ヤマザナドゥ",
+   "target": "茨木華扇",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "河城にとり",
+   "target": "村紗水蜜",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "多々良小傘",
+   "target": "聖白蓮",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "宇佐見菫子",
+   "target": "岡崎夢美",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "ドレミー・スイート",
+   "target": "ヘカーティア・ラピスラズリ",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "稀神サグメ",
+   "target": "純狐",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ },
+ {
+   "source": "宇佐見蓮子",
+   "target": "森近霖之助",
+   "value": "11",
+   "picture": "",
+   "isDifferentgroup": ""
+ }
+]

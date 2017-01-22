@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+         <title>東方可視化 ~the Coupling Network in Lotus Land</title>
+         <script type="text/javascript" src="./lib/jquery-3.1.1.min.js"></script>
+<meta charset="utf-8">
+<style type="text/css">
+.button {
+    text-align:center;
+    padding:5px;
+    color:#fff;
+    background:#00BFFF;
+    color:white;
+    width:150px;
+    height:13px;
+    cursor:pointer;
+}
+.close {
+    background:#666;
+}
+.links line {
+  /*stroke: #999;*/
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  /*stroke: #000;*/
+  stroke-width: 1.5px;
+}
+div.tooltip {
+    position: absolute;
+    /*text-align: center;*/
+    width: 400px;
+    height: 1200px;
+    left:50%;
+    padding: 2px;
+    font: 24px Meiryo;
+    color:brown;
+    background: lightsteelblue;
+    border: 0px;
+    border-radius: 8px;
+    pointer-events: none;
+  }
+
+</style>
+<body>
+  <table width="1600px" height="1000px" border="0">
+    <tr style="position:fixed" width="1600px" height="60" valign="top">
+      <form name="title">
+    <td width="100" valign="top"><input type="checkbox" checked="checked" value="0">主人公</td>
+    <td width="100" valign="top"><input type="checkbox" checked="checked" value="1">紅魔郷</td>
+    <td width="100" valign="top"><input type="checkbox" checked="checked" value="2">妖々夢</td>
+    <td width="100" valign="top"><input type="checkbox" checked="checked" value="3">永夜抄</td>
+    <td width="100" valign="top"><input type="checkbox" checked="checked" value="4">花映塚</td>
+    <td width="100" valign="top"><input type="checkbox" checked="checked" value="5">風神録</td>
+    <td width="100" valign="top"><input type="checkbox" checked="checked" value="6">地霊殿</td>
+    <td width="100" valign="top"><input type="checkbox" checked="checked" value="7">星蓮船</td>
+    <td width="100" valign="top"><input type="checkbox" checked="checked" value="8">神霊廟</td>
+    <td width="100" valign="top"><input type="checkbox" checked="checked" value="9">輝針城</td>
+    <td width="100" valign="top"><input type="checkbox" checked="checked" value="10">紺珠伝</td>
+    <td width="100" valign="top"><input type="checkbox" checked="checked" value="11">黄昏</td>
+   <td width="100" valign="top"><input type="checkbox" checked="checked" value="12">文化帖・DS</td>
+   <td width="100" valign="top"><input type="checkbox" checked="checked" value="13">書籍・CD</td>
+
+  </tr>
+  <tr style="position:fixed; top:6%">
+    <td><input style="cursor:pointer" type="button" value="再配置" onclick="changeview()"></td></form>
+  </tr>
+  <tr style="position:fixed; top:10%">
+    <td><form name="mode" action="">
+    <select style="cursor:pointer" id="modeselect" onchange="changeview()">
+    <option>通常モード</option>
+    <option selected>別作品強調モード</option>
+  </form></td>
+  </tr>
+    <tr>
+      <td style="position:fixed; top:14%" width="200" valign="center">
+  <div class="content" id=0>
+  </div>
+  <div class="content" id=1>
+  </div>
+  <div class="content" id=2>
+  </div>
+  <div class="content" id=3>
+  </div>
+  <div class="content" id=4>
+  </div>
+  <div class="content" id=5>
+  </div>
+  <div class="content" id=6>
+  </div>
+  <div class="content" id=7>
+  </div>
+  <div class="content" id=8>
+  </div>
+  <div class="content" id=9>
+  </div>
+  <div class="content" id=10>
+  </div>
+  <div class="content" id=11>
+  </div>
+  <div class="content" id=12>
+  </div>
+  <div class="content" id=13>
+  </div>
+
+</td>
+<td width="1200" height="1500" id="graph" valign="top" align="left">
+</tr></table>
+
+
+<script src="./lib/d3.js" charset="utf-8"></script>
+<script>
+
+var width=2400;var height=1800;
+
+var link,node,texts;
+
+var zoom1 = d3.zoom()
+  .scaleExtent([0.5, 2.5])
+  .on("zoom", function(){
+    link.attr("transform", "translate("+d3.event.transform.x+","+d3.event.transform.y+")scale(" + d3.event.transform.k + ")");
+    node.attr("transform", "translate("+d3.event.transform.x+","+d3.event.transform.y+")scale(" + d3.event.transform.k + ")");
+    texts.attr("transform", "translate("+d3.event.transform.x+","+d3.event.transform.y+")scale(" + d3.event.transform.k + ")");
+  });
+
+var svg = d3.select("#graph").append("svg").attr("width", width).attr("height", height)
+          .append("g")
+          .attr("transform", "translate(0,0)")
+          .call(zoom1);
+
+var rect = svg.append("rect")
+            .attr("width", width)
+            .attr("height", height)
+            .style("fill", "none")
+            .style("pointer-events", "all");
+
+var div = d3.select("body")
+      .append("div")
+      .attr("class", "tooltip")
+      .style("opacity", 0);
+
+var reset = [];
+for(var i = 0; i < 14; i++){
+  reset[i] = 1;
+}
+
+var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id(function(d) { return d.name; }))
+    .force("charge", d3.forceManyBody())
+    .force("center", d3.forceCenter(width / 2, height / 2));
+
+simulation.force("link")
+              //length of spring
+              .distance(function(d){ return 550-Math.log2(d.value)*20;})
+              //spring constant
+              .strength(function(d){ return 1.1+Math.log2(d.value)/20.0; });
+
+simulation.force("charge")
+          //cuuron constant
+          .strength(function() { return -4000; });
+
+//friction
+simulation.velocityDecay(0.9);
+
+//珠の当たり判定
+d3.forceCollide(50);
+
+d3.json("newdata3.json", function(error, graph) {
+  if (error) throw error;
+
+   link = svg.append("g")
+      .attr("class", "links")
+    .selectAll("line")
+    .data(graph.links)
+    .enter().append("line")
+    .attr("class", function(d){
+      return "link_" + d.source + "_" + d.target;
+    })
+      .attr("stroke-width", function(d) { return Math.log2(parseInt(d.value))*2-5; })
+      .attr("stroke",function(d){
+        if(parseInt(d.isDifferentgroup)!=1){
+        return color_assign(100);
+      }else{
+        return "coral";
+      }
+      })
+      .style("pointer-events", "all");
+
+   node = svg.append("g")
+      .attr("class", "nodes")
+    .selectAll("circle")
+    .data(graph.nodes)
+    .enter().append("circle")
+      .attr("r", function(d) {
+        return Math.log2(parseInt(d.picture))*4-17;
+      })
+      .attr("class", function(d){
+        return "node_" + d.id;
+      })
+      .attr("fill", function(d) {
+         return color_assign(d.group);
+                 })
+       .on("click", onclicked)
+       .on("mouseover", mousein)
+       .on("mouseout", mouseaway)
+       .style("pointer-events", "all")
+     .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
+
+   texts = svg.selectAll("text")
+                       .data(graph.nodes)
+                       .enter()
+                       .append("text")
+                       .attr("class", function(d){
+                         return "text_" + d.id;
+                       });
+
+  simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked);
+
+  simulation.force("link")
+      .links(graph.links);
+
+  function ticked() {
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+
+    node
+        .attr("cx", function(d) { return d.x; })
+        .attr("cy", function(d) { return d.y; });
+
+        texts.text(function(d){
+                               return d.name; })
+                               //.attr("class", function(d){
+                                // return "text_" + d.id;
+                               //})
+                             .attr("fill",function(d){
+                               if(reset[d.group]==0){
+                                 return "none";
+                               }else{
+                                 return "black";
+                               }
+                             })
+                             .attr("y",function(d){return parseInt(d.y)+40;})
+                             .attr("x", function(d){ return parseInt(d.x)-10; })
+                             .attr("font-size", function(d){
+                               29 - parseInt(Math.log10(d.picture)*2);
+                             });
+
+  }
+  function onclicked(d){
+    console.log(d);
+  }
+  function mousein(d){
+    var adj = Array.apply(null, Array(graph.nodes.length)).map(function(){return 0;});
+    for(var i = 0; i < graph.links.length; i++){
+      if(graph.links[i].source.id == d.id && reset[graph.links[i].target.group]==1 &&reset[d.group]==1){
+        adj[graph.links[i].target.id - 1] = 1;
+        //svg.select(".link_" + d.name + "_" + graph.links[i].target.name).attr("stroke", "silver");
+      }else if(graph.links[i].target.id == d.id && reset[graph.links[i].source.group]==1 &&reset[d.group]==1){
+        adj[graph.links[i].source.id - 1] = 1;
+        //svg.select(".link_" + graph.links[i].source.name+ "_" + d.name).attr("stroke", "silver");
+      }else{
+        svg.select(".link_" + graph.links[i].source.name+ "_" + graph.links[i].target.name).attr("stroke", "none");
+        //svg.select(".link_" + graph.links[i].source.name + "_" + d.name).attr("stroke", "white");
+      }
+    }
+    div.transition()
+       .duration(500)       .duration(500)
+       .style("opacity",0.8);
+
+    var charaimg =""
+    charaimg += "<div>";
+    charaimg += "<img src = 'icon/" + d.id + ".jpg' height = 70 align='left'>";
+    charaimg += "<font size='3'>〜";
+    charaimg += d.rumor;
+    charaimg += "〜";
+    charaimg += "</font><br />";
+    charaimg += d.name;
+    charaimg += "<br clear='left'>";
+    charaimg += "</div>";
+
+    var box_height=80;
+
+    for(var i = 0; i < graph.nodes.length; i++){
+      if(adj[i] == 1){
+        svg.select(".text_" + (i+1)).attr("font-size", 24);
+        var number=i+1;
+        charaimg += "<div>";
+        charaimg += " <img src = 'icon/" + number+".jpg' height = 50 align='left'>";
+        charaimg += "<font size='3'>〜";
+        charaimg += graph.nodes[number-1].rumor;
+        charaimg += "〜";
+        charaimg += "</font><br /><font size='4'>";
+        charaimg += graph.nodes[number-1].name;
+        charaimg += "</font><br clear ='left'>";
+        charaimg += "</div>";
+
+        box_height +=50;
+      }else if(i+1 == d.id){
+        //svg.select(".node_" + d.id).attr("fill", "orange");
+        svg.select(".text_" + d.id).attr("font-size", 28).attr("fill", "blue");
+      }else{
+        //svg.select(".node_" + (i+1)).attr("fill", "lightgray");
+        svg.select(".text_" + (i+1)).attr("fill", "none");
+      }
+    }
+    var ypos;
+
+    if(d3.event.pageY<box_height/2){
+      ypos=parseInt(d3.event.pageY/2);
+    }else {
+      ypos=d3.event.pageY -box_height/2;
+    }
+    div.html(
+       charaimg
+     )
+       .style("left", (d3.event.pageX+180) + "px")
+       .style("top", ypos + "px")
+       .style("height",box_height + "px");
+    //svg.select(".node_" + d.id).attr("fill", "orange");
+  }
+
+
+  function mouseaway(d){
+    svg.selectAll("circle").attr("fill", function(d){
+      if(reset[d.group] == 1){
+      return color_assign(d.group);
+    }else{
+      return "none";
+    }
+  })
+    svg.selectAll("text").attr("fill", function(d){
+      if(reset[d.group] == 1){
+        return "black";
+      }else{
+        return "none";
+      }
+    }).attr("font-size", function(d){
+      return 29 - parseInt(Math.log10(d.picture)*2);
+    })
+    div.transition()
+        .duration(500)
+        .style("opacity", 0.0);
+
+    svg.selectAll("line").attr("stroke",function(d){
+      var sou, tar;
+      for(var i = 0; i < graph.nodes.length; i++){
+        if(graph.nodes[i].name == d.source.name)sou = graph.nodes[i].group;
+        if(graph.nodes[i].name == d.target.name)tar = graph.nodes[i].group;
+      }
+      if(reset[sou] == 0 || reset[tar] == 0){
+        return "none";
+      }else{
+        if(document.mode.modeselect.selectedIndex == 0){
+          return "gray";
+        }else if(parseInt(d.isDifferentgroup)!=1){
+            return color_assign(100);
+          }else{
+            return "coral";
+          }
+        }
+      });
+  }
+  function dragstarted(d) {
+    if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+    d.fx = d.x;
+    d.fy = d.y;
+  }
+
+  function dragged(d) {
+    d.fx = d3.event.x;
+    d.fy = d3.event.y;
+  }
+
+  function dragended(d) {
+    if (!d3.event.active) simulation.alphaTarget(0);
+    d.fx = null;
+    d.fy = null;
+  }
+
+});
+
+
+var dataset;
+var res1 = [];
+var res2 = [];
+function getCSV(csv, res){
+  var req = new XMLHttpRequest();
+  req.open("get", csv, true);
+  req.send(null);
+
+  req.onload = function(){
+    convertCSVtoArray(req.responseText, res);
+  }
+}
+
+function convertCSVtoArray(str, res){
+  var tmp = str.split("\n");
+  for(var i = 1; i < tmp.length; i++){
+    res[i-1] = tmp[i].split(',');
+  }
+
+}
+
+getCSV("group.csv", res1);
+getCSV("single.csv", res2);
+setTimeout(function(){
+$(function () {
+$('.button').nextAll().hide();
+$('.button').click(function () {
+     if ($(this).nextAll().is(':hidden')) {
+        $(this).nextAll().slideDown();
+        //$(this).text('閉じる').addClass('close');
+      } else {
+        $(this).nextAll().slideUp();
+      }
+      //$(this).prevAll().slideToggle();
+    });
+
+  });
+}, 70);
+
+
+setTimeout(function(){
+  //console.log(res2[0]);
+for(var i = 0; i < res1.length-1; i++){
+  var uldata = [];
+  for(var j = 0; j < res2.length; j++){
+    if(res2[j][3] == i){
+      uldata.push
+    ("<li style=\"cursor:pointer\"><a onclick=\" jump_pixiv(" + res2[j][0] + ");\">" +res2[j][1]+"</a></li>");
+    }
+  }
+  var str = uldata.join('');
+  var but = document.getElementById(i);
+  //but.innerHTML = "<ul>"+ str + "</ul>" + "<p class=\"button\">"+res1[i][0] +"</p>";
+  but.innerHTML = "<p class=\"button\" style='background:"+color_assign(i)+"'';>" + res1[i][0] +"</p>"+
+  "<ul id=target" +i+ ">"+ str + "</ul>" ;
+
+}
+},60);
+
+function changeview(){
+
+  for(var i = 0; i < 14; i++){
+    var target = document.getElementsByTagName("p");
+    if(document.title.elements[i].checked){
+      reset[i]=1;
+      target[i].style="background-color:"+color_assign(i);
+    }else{
+      reset[i]=0;
+      target[i].style="background-color:#d3d3d3";
+    }
+  }
+
+  for(var i = 0; i < res2.length-1; i++){
+    for(var j = i+1; j < res2.length-1; j++){
+      if(reset[res2[i][3]] == 0 ||reset[res2[j][3]] == 0){
+        svg.select(".link_" + (res2[i][1]) + "_" + (res2[j][1])).attr("stroke", "none");
+        svg.select(".link_" + (res2[j][1]) + "_" + (res2[i][1])).attr("stroke", "none");
+      }else{
+        svg.select(".link_" + (res2[i][1]) + "_" + (res2[j][1])).attr("stroke", function(d){
+          if(res2[i][3]!=res2[j][3] && document.mode.modeselect.selectedIndex == 1){
+            return "coral";
+          }else if(document.mode.modeselect.selectedIndex == 1){
+            return "lightgray";
+          }else{
+            return "gray";
+          }
+        });
+        svg.select(".link_" + (res2[j][1]) + "_" + res2[i][1]).attr("stroke", function(d){
+          if(res2[i][3]!=res2[j][3]){
+            return "blue";
+          }else{
+            return color_assign(100);
+          }
+        });
+      }
+    }
+    if(reset[res2[i][3]] == 0){
+      svg.select(".node_" + (res2[i][0])).attr("fill", "none").attr("stroke", "none");
+      svg.select(".text_" + (res2[i][0])).attr("fill", "none");
+    }else{
+      svg.select(".text_" + (res2[i][0])).attr("fill", "black");
+      svg.select(".node_" + (res2[i][0])).attr("fill", function(d){
+        return color_assign(d.group);      });
+    }
+    //console.log(reset[res2[i][3]]);
+  }
+}
+
+function color_assign(d){
+  switch(parseInt(d)){
+    case 0:
+    return "darkgray";
+    break;
+
+    case 1:
+      return "crimson";
+      break;
+
+    case 2:
+      return "#FFB6C1";
+      break;
+
+    case 3:
+    return "#9932cc";
+    break;
+
+    case 4:
+    return "#FF00FF";
+    break;
+
+    case 5:
+    return "#9ACD32";
+    break;
+
+    case 6:
+    return "#b8860b";
+    break;
+
+    case 7:
+    return "#87CEEB";
+    break;
+
+    case 8:
+    return "#3cb371";
+    break;
+
+    case 9:
+    return "indianred";
+
+    case 10:
+    return "yellow";
+    break;
+
+    case 11:
+    return "darkorange";
+    break;
+
+    case 12:
+    return "olive";
+    break;
+
+    case 13:
+    return "brown";
+    break;
+
+    case 100:
+    return "lightgray";
+    break;
+  }
+}
+
+function jump_pixiv(d){
+for(var i = 0; i < res2.length; i++){
+  if(res2[i][0] == d)window.open("http://www.pixiv.net/search.php?word="+res2[i][1], "_blank");
+}
+//location.href="http://www.google.co.jp/";
+}
+
+</script>
+
+</body></html>
